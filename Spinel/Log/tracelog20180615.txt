@@ -1,0 +1,177 @@
+[2018/06/15 10:00:07.499] NamedPipeDataLinkManager.OnAcceptClient: SessionToken(e5b59cf37bb9dcaa9482996fb20a5dee)を送信しています。ThreadID=25
+[2018/06/15 10:00:07.499] NamedPipeDataLinkManager.OnAcceptClient: SessionTokenを送信しました。ThreadID=25
+[2018/06/15 10:00:07.511] Enter MulticastTuner[PT3/0/T/0].AddClient(DT1/TVTest/5152): DataLinkMethod=Lapis.Spinel.NamedPipeDataLink SessionToken=e5b59cf37bb9dcaa9482996fb20a5dee
+[2018/06/15 10:00:07.511] RealDataLinkEndPoint.SendThreadMainCore: 送信スレッド(TID=9628)を開始します。
+[2018/06/15 10:00:08.368] MulticastTuner[PT3/0/T/0].StartStreaming: チューナーをオンラインにしました。(所要時間 856.49ms)
+[2018/06/15 10:00:08.370] クライアントが接続しました。(TunerPath="PT3/0/T/0" ClientDesc="[排他] TVTest (PID:5152) / NamedPipe")
+[2018/06/15 10:00:08.370] MulticastTuner[PT3/0/T/0].RecvThreadMain: 受信スレッド(TID=11268)を開始します。
+[2018/06/15 10:00:08.370] call NativeAPI.SetThreadExecutionState(ES_SYSTEM_REQUIRED, ES_AWAYMODE_REQUIRED, ES_CONTINUOUS) Result = ES_CONTINUOUS
+[2018/06/15 10:00:08.586] MulticastTuner[PT3/0/T/0].SetChannel(UHF20ch,"DT1/TVTest/5152"): 選局リクエストを行います。
+[2018/06/15 10:00:08.912] MulticastTuner[PT3/0/T/0].RecvThreadMain: B25Descramblerを初期化しました。(所要時間 541.62ms)
+[2018/06/15 10:00:08.912] BonTuner.SetChannel: UHF20ch => (dwSpace=0,dwChannel=7)
+[2018/06/15 10:00:08.951] MulticastTuner[PT3/0/T/0].ProcessTuneRequest: UHF20chを選局しました。
+[2018/06/15 10:00:08.951] MulticastTuner[PT3/0/T/0].SetChannel(UHF20ch,"DT1/TVTest/5152"): 選局リクエスト結果(True)を取得しました。(所要時間 364.32ms)
+[2018/06/15 10:00:09.716] NamedPipeDataLinkManager.OnAcceptClient: SessionToken(b8d17c696dd96bac394904bb0f05c7b4)を送信しています。ThreadID=6
+[2018/06/15 10:00:09.716] NamedPipeDataLinkManager.OnAcceptClient: SessionTokenを送信しました。ThreadID=6
+[2018/06/15 10:00:09.735] Enter MulticastTuner[PT3/0/T/1].AddClient(DT1/TVTest/13128): DataLinkMethod=Lapis.Spinel.NamedPipeDataLink SessionToken=b8d17c696dd96bac394904bb0f05c7b4
+[2018/06/15 10:00:09.735] RealDataLinkEndPoint.SendThreadMainCore: 送信スレッド(TID=6068)を開始します。
+[2018/06/15 10:00:09.808] MulticastTuner[PT3/0/T/1].StartStreaming: チューナーをオンラインにしました。(所要時間 73.14ms)
+[2018/06/15 10:00:09.808] クライアントが接続しました。(TunerPath="PT3/0/T/1" ClientDesc="[排他] TVTest (PID:13128) / NamedPipe")
+[2018/06/15 10:00:09.808] MulticastTuner[PT3/0/T/1].RecvThreadMain: 受信スレッド(TID=11612)を開始します。
+[2018/06/15 10:00:09.956] MulticastTuner[PT3/0/T/1].SetChannel(CATV50ch,"DT1/TVTest/13128"): 選局リクエストを行います。
+[2018/06/15 10:00:10.012] MulticastTuner[PT3/0/T/1].RecvThreadMain: B25Descramblerを初期化しました。(所要時間 203.37ms)
+[2018/06/15 10:00:10.012] BonTuner.SetChannel: CATV50ch => (dwSpace=1,dwChannel=37)
+[2018/06/15 10:00:10.051] MulticastTuner[PT3/0/T/1].ProcessTuneRequest: CATV50chを選局しました。
+[2018/06/15 10:00:10.051] MulticastTuner[PT3/0/T/1].SetChannel(CATV50ch,"DT1/TVTest/13128"): 選局リクエスト結果(True)を取得しました。(所要時間 95.25ms)
+[2018/06/15 10:00:11.425] MulticastTuner[PT3/0/T/0].SetChannel(UHF19ch,"DT1/TVTest/5152"): 選局リクエストを行います。
+[2018/06/15 10:00:11.492] BonTuner.SetChannel: UHF19ch => (dwSpace=0,dwChannel=6)
+[2018/06/15 10:00:11.530] MulticastTuner[PT3/0/T/0].ProcessTuneRequest: UHF19chを選局しました。
+[2018/06/15 10:00:11.530] MulticastTuner[PT3/0/T/0].SetChannel(UHF19ch,"DT1/TVTest/5152"): 選局リクエスト結果(True)を取得しました。(所要時間 106.03ms)
+[2018/06/15 10:00:12.118] MulticastTuner[PT3/0/T/1].SetChannel(UHF17ch,"DT1/TVTest/13128"): 選局リクエストを行います。
+[2018/06/15 10:00:12.127] BonTuner.SetChannel: UHF17ch => (dwSpace=0,dwChannel=4)
+[2018/06/15 10:00:12.166] MulticastTuner[PT3/0/T/1].ProcessTuneRequest: UHF17chを選局しました。
+[2018/06/15 10:00:12.166] MulticastTuner[PT3/0/T/1].SetChannel(UHF17ch,"DT1/TVTest/13128"): 選局リクエスト結果(True)を取得しました。(所要時間 47.69ms)
+[2018/06/15 10:01:17.422] MulticastTuner[PT3/0/T/0].SetChannel(UHF18ch,"DT1/TVTest/5152"): 選局リクエストを行います。
+[2018/06/15 10:01:17.493] BonTuner.SetChannel: UHF18ch => (dwSpace=0,dwChannel=5)
+[2018/06/15 10:01:17.531] MulticastTuner[PT3/0/T/0].ProcessTuneRequest: UHF18chを選局しました。
+[2018/06/15 10:01:17.532] MulticastTuner[PT3/0/T/0].SetChannel(UHF18ch,"DT1/TVTest/5152"): 選局リクエスト結果(True)を取得しました。(所要時間 110.36ms)
+[2018/06/15 10:01:18.135] MulticastTuner[PT3/0/T/1].SetChannel(UHF20ch,"DT1/TVTest/13128"): 選局リクエストを行います。
+[2018/06/15 10:01:18.217] BonTuner.SetChannel: UHF20ch => (dwSpace=0,dwChannel=7)
+[2018/06/15 10:01:18.255] MulticastTuner[PT3/0/T/1].ProcessTuneRequest: UHF20chを選局しました。
+[2018/06/15 10:01:18.255] MulticastTuner[PT3/0/T/1].SetChannel(UHF20ch,"DT1/TVTest/13128"): 選局リクエスト結果(True)を取得しました。(所要時間 121.01ms)
+[2018/06/15 10:02:21.448] MulticastTuner[PT3/0/T/0].SetChannel(UHF14ch,"DT1/TVTest/5152"): 選局リクエストを行います。
+[2018/06/15 10:02:21.533] BonTuner.SetChannel: UHF14ch => (dwSpace=0,dwChannel=1)
+[2018/06/15 10:02:21.571] MulticastTuner[PT3/0/T/0].ProcessTuneRequest: UHF14chを選局しました。
+[2018/06/15 10:02:21.572] MulticastTuner[PT3/0/T/0].SetChannel(UHF14ch,"DT1/TVTest/5152"): 選局リクエスト結果(True)を取得しました。(所要時間 123.55ms)
+[2018/06/15 10:02:22.093] MulticastTuner[PT3/0/T/1].SetChannel(UHF37ch,"DT1/TVTest/13128"): 選局リクエストを行います。
+[2018/06/15 10:02:22.165] BonTuner.SetChannel: UHF37ch => (dwSpace=0,dwChannel=24)
+[2018/06/15 10:02:22.205] MulticastTuner[PT3/0/T/1].ProcessTuneRequest: UHF37chを選局しました。
+[2018/06/15 10:02:22.205] MulticastTuner[PT3/0/T/1].SetChannel(UHF37ch,"DT1/TVTest/13128"): 選局リクエスト結果(True)を取得しました。(所要時間 111.65ms)
+[2018/06/15 10:03:26.093] MulticastTuner[PT3/0/T/1].SetChannel(UHF26ch,"DT1/TVTest/13128"): 選局リクエストを行います。
+[2018/06/15 10:03:26.163] BonTuner.SetChannel: UHF26ch => (dwSpace=0,dwChannel=13)
+[2018/06/15 10:03:26.201] MulticastTuner[PT3/0/T/1].ProcessTuneRequest: UHF26chを選局しました。
+[2018/06/15 10:03:26.201] MulticastTuner[PT3/0/T/1].SetChannel(UHF26ch,"DT1/TVTest/13128"): 選局リクエスト結果(True)を取得しました。(所要時間 108.02ms)
+[2018/06/15 10:03:29.469] MulticastTuner[PT3/0/T/0].SetChannel(UHF27ch,"DT1/TVTest/5152"): 選局リクエストを行います。
+[2018/06/15 10:03:29.526] BonTuner.SetChannel: UHF27ch => (dwSpace=0,dwChannel=14)
+[2018/06/15 10:03:29.564] MulticastTuner[PT3/0/T/0].ProcessTuneRequest: UHF27chを選局しました。
+[2018/06/15 10:03:29.564] MulticastTuner[PT3/0/T/0].SetChannel(UHF27ch,"DT1/TVTest/5152"): 選局リクエスト結果(True)を取得しました。(所要時間 95.19ms)
+[2018/06/15 10:04:32.094] MulticastTuner[PT3/0/T/1].SetChannel(UHF22ch,"DT1/TVTest/13128"): 選局リクエストを行います。
+[2018/06/15 10:04:32.162] BonTuner.SetChannel: UHF22ch => (dwSpace=0,dwChannel=9)
+[2018/06/15 10:04:32.199] MulticastTuner[PT3/0/T/1].ProcessTuneRequest: UHF22chを選局しました。
+[2018/06/15 10:04:32.199] MulticastTuner[PT3/0/T/1].SetChannel(UHF22ch,"DT1/TVTest/13128"): 選局リクエスト結果(True)を取得しました。(所要時間 105.83ms)
+[2018/06/15 10:04:35.446] MulticastTuner[PT3/0/T/0].SetChannel(UHF25ch,"DT1/TVTest/5152"): 選局リクエストを行います。
+[2018/06/15 10:04:35.530] BonTuner.SetChannel: UHF25ch => (dwSpace=0,dwChannel=12)
+[2018/06/15 10:04:35.567] MulticastTuner[PT3/0/T/0].ProcessTuneRequest: UHF25chを選局しました。
+[2018/06/15 10:04:35.567] MulticastTuner[PT3/0/T/0].SetChannel(UHF25ch,"DT1/TVTest/5152"): 選局リクエスト結果(True)を取得しました。(所要時間 121.40ms)
+[2018/06/15 10:05:34.151] MulticastTuner[PT3/0/T/1].SetChannel(UHF24ch,"DT1/TVTest/13128"): 選局リクエストを行います。
+[2018/06/15 10:05:34.153] BonTuner.SetChannel: UHF24ch => (dwSpace=0,dwChannel=11)
+[2018/06/15 10:05:34.192] MulticastTuner[PT3/0/T/1].ProcessTuneRequest: UHF24chを選局しました。
+[2018/06/15 10:05:34.192] MulticastTuner[PT3/0/T/1].SetChannel(UHF24ch,"DT1/TVTest/13128"): 選局リクエスト結果(True)を取得しました。(所要時間 40.41ms)
+[2018/06/15 10:05:41.446] MulticastTuner[PT3/0/T/0].SetChannel(UHF21ch,"DT1/TVTest/5152"): 選局リクエストを行います。
+[2018/06/15 10:05:41.598] BonTuner.SetChannel: UHF21ch => (dwSpace=0,dwChannel=8)
+[2018/06/15 10:05:41.636] MulticastTuner[PT3/0/T/0].ProcessTuneRequest: UHF21chを選局しました。
+[2018/06/15 10:05:41.636] MulticastTuner[PT3/0/T/0].SetChannel(UHF21ch,"DT1/TVTest/5152"): 選局リクエスト結果(True)を取得しました。(所要時間 189.76ms)
+[2018/06/15 10:06:42.103] MulticastTuner[PT3/0/T/1].SetChannel(UHF28ch,"DT1/TVTest/13128"): 選局リクエストを行います。
+[2018/06/15 10:06:42.106] BonTuner.SetChannel: UHF28ch => (dwSpace=0,dwChannel=15)
+[2018/06/15 10:06:42.145] MulticastTuner[PT3/0/T/1].ProcessTuneRequest: UHF28chを選局しました。
+[2018/06/15 10:06:42.145] MulticastTuner[PT3/0/T/1].SetChannel(UHF28ch,"DT1/TVTest/13128"): 選局リクエスト結果(True)を取得しました。(所要時間 41.26ms)
+[2018/06/15 10:06:47.421] MulticastTuner[PT3/0/T/0].SetChannel(UHF23ch,"DT1/TVTest/5152"): 選局リクエストを行います。
+[2018/06/15 10:06:47.435] BonTuner.SetChannel: UHF23ch => (dwSpace=0,dwChannel=10)
+[2018/06/15 10:06:47.473] MulticastTuner[PT3/0/T/0].ProcessTuneRequest: UHF23chを選局しました。
+[2018/06/15 10:06:47.473] MulticastTuner[PT3/0/T/0].SetChannel(UHF23ch,"DT1/TVTest/5152"): 選局リクエスト結果(True)を取得しました。(所要時間 51.70ms)
+[2018/06/15 10:07:44.279] Enter MulticastTuner[PT3/0/T/1].RemoveClient(DT1/TVTest/13128): ThreadID=26
+[2018/06/15 10:07:44.371] MulticastTuner[PT3/0/T/1].RecvThreadMain: 外部からスレッド停止要求がありました。
+[2018/06/15 10:07:44.377] MulticastTuner[PT3/0/T/1].RecvThreadMain: チューナーをオフラインにしました。(所要時間 5.09ms)
+[2018/06/15 10:07:44.378] MulticastTuner[PT3/0/T/1].RecvThreadMain: B25Descramblerを破棄しました。
+[2018/06/15 10:07:44.378] MulticastTuner[PT3/0/T/1].RecvThreadMain: 受信スレッドを終了します。
+[2018/06/15 10:07:44.379] RealDataLinkEndPoint.Close: DataLinkを終了しています。DataLinkMethod=Lapis.Spinel.NamedPipeDataLink SessionToken=b8d17c696dd96bac394904bb0f05c7b4 ThreadID=26
+[2018/06/15 10:07:44.379] RealDataLinkEndPoint.WaitSendThreadExit: 送信スレッドの終了を待機しています。DataLinkMethod=Lapis.Spinel.NamedPipeDataLink SessionToken=b8d17c696dd96bac394904bb0f05c7b4 ThreadID=26
+[2018/06/15 10:07:44.381] RealDataLinkEndPoint.SendThreadMain: クリーンアップ処理を行っています。ThreadID=19
+[2018/06/15 10:07:44.381] RealDataLinkEndPoint.SendThreadMain: クリーンアップ処理が完了しました。ThreadID=19
+[2018/06/15 10:07:44.381] RealDataLinkEndPoint.WaitSendThreadExit: 送信スレッドが停止しました。ThreadID=26
+[2018/06/15 10:07:44.381] クライアントが切断しました。(TunerPath="PT3/0/T/1" ClientID="DT1/TVTest/13128")
+[2018/06/15 10:07:44.381] Leave MulticastTuner[PT3/0/T/1].RemoveClient(DT1/TVTest/13128): ThreadID=26
+[2018/06/15 10:07:52.271] Enter MulticastTuner[PT3/0/T/0].RemoveClient(DT1/TVTest/5152): ThreadID=26
+[2018/06/15 10:07:52.276] MulticastTuner[PT3/0/T/0].RecvThreadMain: 外部からスレッド停止要求がありました。
+[2018/06/15 10:07:52.282] MulticastTuner[PT3/0/T/0].RecvThreadMain: チューナーをオフラインにしました。(所要時間 6.61ms)
+[2018/06/15 10:07:52.284] MulticastTuner[PT3/0/T/0].RecvThreadMain: B25Descramblerを破棄しました。
+[2018/06/15 10:07:52.284] MulticastTuner[PT3/0/T/0].RecvThreadMain: 受信スレッドを終了します。
+[2018/06/15 10:07:52.285] RealDataLinkEndPoint.Close: DataLinkを終了しています。DataLinkMethod=Lapis.Spinel.NamedPipeDataLink SessionToken=e5b59cf37bb9dcaa9482996fb20a5dee ThreadID=26
+[2018/06/15 10:07:52.285] RealDataLinkEndPoint.WaitSendThreadExit: 送信スレッドの終了を待機しています。DataLinkMethod=Lapis.Spinel.NamedPipeDataLink SessionToken=e5b59cf37bb9dcaa9482996fb20a5dee ThreadID=26
+[2018/06/15 10:07:52.296] RealDataLinkEndPoint.SendThreadMain: クリーンアップ処理を行っています。ThreadID=22
+[2018/06/15 10:07:52.296] RealDataLinkEndPoint.SendThreadMain: クリーンアップ処理が完了しました。ThreadID=22
+[2018/06/15 10:07:52.296] RealDataLinkEndPoint.WaitSendThreadExit: 送信スレッドが停止しました。ThreadID=26
+[2018/06/15 10:07:52.296] クライアントが切断しました。(TunerPath="PT3/0/T/0" ClientID="DT1/TVTest/5152")
+[2018/06/15 10:07:52.296] Leave MulticastTuner[PT3/0/T/0].RemoveClient(DT1/TVTest/5152): ThreadID=26
+[2018/06/15 10:07:52.296] call NativeAPI.SetThreadExecutionState(ES_CONTINUOUS) Result = ES_SYSTEM_REQUIRED, ES_AWAYMODE_REQUIRED, ES_CONTINUOUS
+[2018/06/15 16:11:20.934] <<App Start>>
+[2018/06/15 16:11:20.935] Begin MainWindow.Constructor
+[2018/06/15 16:11:21.563] ProductName = "Spinel"
+[2018/06/15 16:11:21.563] ProductVersion = "3.6.1.1"
+[2018/06/15 16:11:21.568] ProcessName = "Spinel"
+[2018/06/15 16:11:21.568] PID = 10548
+[2018/06/15 16:11:21.568] BaseDirectory = "C:\TV\Spinel\"
+[2018/06/15 16:11:21.568] Environment.MachineName = "DT1"
+[2018/06/15 16:11:21.568] Environment.Version = "2.0.50727.8922"
+[2018/06/15 16:11:21.568] Environment.OSVersion = "Microsoft Windows NT 6.2.9200.0"
+[2018/06/15 16:11:21.568] Environment.UserInteractive = "True"
+[2018/06/15 16:11:21.568] IntPtr.Size = 4
+[2018/06/15 16:11:21.568] Modules Info
+[2018/06/15 16:11:21.568]   modules[0].FullyQualifiedName = "C:\TV\Spinel\Spinel.exe"
+[2018/06/15 16:11:21.568]   modules[0].PortableExecutableKinds = "ILOnly, Required32Bit"
+[2018/06/15 16:11:21.568]   modules[0].ImageFileMachine = "I386"
+[2018/06/15 16:11:21.568] .NET Framework Assemblies Info
+[2018/06/15 16:11:21.569]   C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll:
+[2018/06/15 16:11:21.569]     FileVersion = 2.0.50727.8922 (WinRelRS4.050727-8900)
+[2018/06/15 16:11:21.569]   C:\Windows\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll:
+[2018/06/15 16:11:21.569]     FileVersion = 2.0.50727.8922 (WinRelRS4.050727-8900)
+[2018/06/15 16:11:21.570]   C:\Windows\assembly\GAC_MSIL\System.Core\3.5.0.0__b77a5c561934e089\System.Core.dll:
+[2018/06/15 16:11:21.570]     FileVersion = 3.5.30729.8931 built by: WinRelRS4
+[2018/06/15 16:11:21.570] End MainWindow.Constructor
+[2018/06/15 16:11:21.601] Begin MainWindow.Load
+[2018/06/15 16:11:21.601] Begin Load Setting File
+[2018/06/15 16:11:21.602]   ServerPortNo = 48083
+[2018/06/15 16:11:21.602]   KeepChannelOnClose = PT3
+[2018/06/15 16:11:21.602]   EnableTSOptimizer = False
+[2018/06/15 16:11:21.602]   AlwaysConfirmOnExit = False
+[2018/06/15 16:11:21.602]   ConfirmOnShutdownIfClientExists = True
+[2018/06/15 16:11:21.602]   ExitOnSuspend = False
+[2018/06/15 16:11:21.602]   DescrambleControl = AlwaysEnable(1)
+[2018/06/15 16:11:21.602] End Load Setting File
+[2018/06/15 16:11:21.602] TSDataLink TCP Serverを開始します。
+[2018/06/15 16:11:21.609] TSDataLink TCP Serverをポート48084で開始しました。
+[2018/06/15 16:11:21.609] TSDataLink NamedPipe Serverを開始します。
+[2018/06/15 16:11:21.613] TSDataLink NamedPipe Serverを開始しました。
+[2018/06/15 16:11:21.613] デバイス定義リストを初期化します。
+[2018/06/15 16:11:21.617] デバイス定義ファイル DeviceDifinitions/#Base.xml を読み込んでいます。
+[2018/06/15 16:11:21.654] デバイス定義リストを初期化しました。
+[2018/06/15 16:11:21.654] USBデバイスIDマップを初期化します。
+[2018/06/15 16:11:21.656] USBデバイスIDマッピングファイル USBDeviceIDMapping.ini が存在しません。
+BonDriver_HDP2によるチューナのロードはHDP2以外無視されます。
+[2018/06/15 16:11:21.656] USBデバイスIDマップを初期化しました。
+[2018/06/15 16:11:21.662] LoadBonDrivers: BonDriverMapping.json を読み込みます。
+[2018/06/15 16:11:21.670] LoadBonDrivers: BonDriverの読み込みを開始します。
+[2018/06/15 16:11:22.112] CreateMulticastTuner: BonDriver_PT3-T0.dll => PT3/0/T/0
+[2018/06/15 16:11:22.451] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/T/0 のチャンネル識別を開始します。
+[2018/06/15 16:11:22.464] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/06/15 16:11:22.472] MulticastTuner[PT3/0/T/0].Constructor: チューナーを初期化しました。
+[2018/06/15 16:11:22.473] CreateMulticastTuner: BonDriver_PT3-T1.dll => PT3/0/T/1
+[2018/06/15 16:11:22.484] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/T/1 のチャンネル識別を開始します。
+[2018/06/15 16:11:22.484] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/06/15 16:11:22.484] MulticastTuner[PT3/0/T/1].Constructor: チューナーを初期化しました。
+[2018/06/15 16:11:22.486] CreateMulticastTuner: BonDriver_PT3-S0.dll => PT3/0/S/0
+[2018/06/15 16:11:22.502] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/S/0 のチャンネル識別を開始します。
+[2018/06/15 16:11:22.509] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/06/15 16:11:22.509] MulticastTuner[PT3/0/S/0].Constructor: チューナーを初期化しました。
+[2018/06/15 16:11:22.509] CreateMulticastTuner: BonDriver_PT3-S1.dll => PT3/0/S/1
+[2018/06/15 16:11:22.519] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/S/1 のチャンネル識別を開始します。
+[2018/06/15 16:11:22.519] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/06/15 16:11:22.519] MulticastTuner[PT3/0/S/1].Constructor: チューナーを初期化しました。
+[2018/06/15 16:11:22.519] LoadBonDriverGeneric: デバイス名 PT3 を、1個追加しました。
+[2018/06/15 16:11:22.524] LoadBonDrivers: BonDriverの読み込みを完了しました。
+[2018/06/15 16:11:22.528] ConstructDeviceTreeView: デバイスツリーUIを生成します。
+[2018/06/15 16:11:22.797] ConstructDeviceTreeView: デバイスツリーUIを生成しました。
+[2018/06/15 16:11:22.797] WCFサービスを開始します。
+[2018/06/15 16:11:23.770] WCFサービスをTCPポート48083で開始しました。
+[2018/06/15 16:11:23.770] 全ての初期化処理を完了しました。
+[2018/06/15 16:11:23.770] End MainWindow.Load

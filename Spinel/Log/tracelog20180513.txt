@@ -1,0 +1,213 @@
+[2018/05/13 10:07:31.796] <<App Start>>
+[2018/05/13 10:07:31.797] Begin MainWindow.Constructor
+[2018/05/13 10:07:41.937] ProductName = "Spinel"
+[2018/05/13 10:07:41.937] ProductVersion = "3.6.1.1"
+[2018/05/13 10:07:41.948] ProcessName = "Spinel"
+[2018/05/13 10:07:41.948] PID = 3240
+[2018/05/13 10:07:41.949] BaseDirectory = "C:\TV\Spinel\"
+[2018/05/13 10:07:41.949] Environment.MachineName = "DT1"
+[2018/05/13 10:07:41.949] Environment.Version = "2.0.50727.8922"
+[2018/05/13 10:07:41.950] Environment.OSVersion = "Microsoft Windows NT 6.2.9200.0"
+[2018/05/13 10:07:41.955] Environment.UserInteractive = "True"
+[2018/05/13 10:07:41.955] IntPtr.Size = 4
+[2018/05/13 10:07:41.955] Modules Info
+[2018/05/13 10:07:41.955]   modules[0].FullyQualifiedName = "C:\TV\Spinel\Spinel.exe"
+[2018/05/13 10:07:41.955]   modules[0].PortableExecutableKinds = "ILOnly, Required32Bit"
+[2018/05/13 10:07:41.956]   modules[0].ImageFileMachine = "I386"
+[2018/05/13 10:07:41.956] .NET Framework Assemblies Info
+[2018/05/13 10:07:41.958]   C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll:
+[2018/05/13 10:07:41.958]     FileVersion = 2.0.50727.8922 (WinRelRS4.050727-8900)
+[2018/05/13 10:07:41.959]   C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll:
+[2018/05/13 10:07:41.959]     FileVersion = 2.0.50727.8922 (WinRelRS4.050727-8900)
+[2018/05/13 10:07:41.960]   C:\WINDOWS\assembly\GAC_MSIL\System.Core\3.5.0.0__b77a5c561934e089\System.Core.dll:
+[2018/05/13 10:07:41.960]     FileVersion = 3.5.30729.8931 built by: WinRelRS4
+[2018/05/13 10:07:41.960] End MainWindow.Constructor
+[2018/05/13 10:07:42.022] Begin MainWindow.Load
+[2018/05/13 10:07:42.023] Begin Load Setting File
+[2018/05/13 10:07:42.025]   ServerPortNo = 48083
+[2018/05/13 10:07:42.025]   KeepChannelOnClose = PT3
+[2018/05/13 10:07:42.025]   EnableTSOptimizer = False
+[2018/05/13 10:07:42.025]   AlwaysConfirmOnExit = False
+[2018/05/13 10:07:42.025]   ConfirmOnShutdownIfClientExists = True
+[2018/05/13 10:07:42.025]   ExitOnSuspend = False
+[2018/05/13 10:07:42.025]   DescrambleControl = AlwaysEnable(1)
+[2018/05/13 10:07:42.025] End Load Setting File
+[2018/05/13 10:07:42.025] TSDataLink TCP Serverを開始します。
+[2018/05/13 10:07:42.049] TSDataLink TCP Serverをポート48084で開始しました。
+[2018/05/13 10:07:42.049] TSDataLink NamedPipe Serverを開始します。
+[2018/05/13 10:07:42.056] TSDataLink NamedPipe Serverを開始しました。
+[2018/05/13 10:07:42.056] デバイス定義リストを初期化します。
+[2018/05/13 10:07:42.069] デバイス定義ファイル DeviceDifinitions/#Base.xml を読み込んでいます。
+[2018/05/13 10:07:42.126] デバイス定義リストを初期化しました。
+[2018/05/13 10:07:42.126] USBデバイスIDマップを初期化します。
+[2018/05/13 10:07:42.128] USBデバイスIDマッピングファイル USBDeviceIDMapping.ini が存在しません。
+BonDriver_HDP2によるチューナのロードはHDP2以外無視されます。
+[2018/05/13 10:07:42.128] USBデバイスIDマップを初期化しました。
+[2018/05/13 10:07:42.138] LoadBonDrivers: BonDriverMapping.json を読み込みます。
+[2018/05/13 10:07:42.147] LoadBonDrivers: BonDriverの読み込みを開始します。
+[2018/05/13 10:07:42.289] CreateMulticastTuner: BonDriver_PT3-T0.dll => PT3/0/T/0
+[2018/05/13 10:07:42.336] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/T/0 のチャンネル識別を開始します。
+[2018/05/13 10:07:42.352] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 10:07:42.372] MulticastTuner[PT3/0/T/0].Constructor: チューナーを初期化しました。
+[2018/05/13 10:07:42.373] CreateMulticastTuner: BonDriver_PT3-T1.dll => PT3/0/T/1
+[2018/05/13 10:07:42.397] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/T/1 のチャンネル識別を開始します。
+[2018/05/13 10:07:42.397] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 10:07:42.397] MulticastTuner[PT3/0/T/1].Constructor: チューナーを初期化しました。
+[2018/05/13 10:07:42.401] CreateMulticastTuner: BonDriver_PT3-S0.dll => PT3/0/S/0
+[2018/05/13 10:07:42.432] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/S/0 のチャンネル識別を開始します。
+[2018/05/13 10:07:42.441] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 10:07:42.441] MulticastTuner[PT3/0/S/0].Constructor: チューナーを初期化しました。
+[2018/05/13 10:07:42.441] CreateMulticastTuner: BonDriver_PT3-S1.dll => PT3/0/S/1
+[2018/05/13 10:07:42.466] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/S/1 のチャンネル識別を開始します。
+[2018/05/13 10:07:42.466] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 10:07:42.466] MulticastTuner[PT3/0/S/1].Constructor: チューナーを初期化しました。
+[2018/05/13 10:07:42.466] LoadBonDriverGeneric: デバイス名 PT3 を、1個追加しました。
+[2018/05/13 10:07:42.473] LoadBonDrivers: BonDriverの読み込みを完了しました。
+[2018/05/13 10:07:42.480] ConstructDeviceTreeView: デバイスツリーUIを生成します。
+[2018/05/13 10:07:42.518] ConstructDeviceTreeView: デバイスツリーUIを生成しました。
+[2018/05/13 10:07:42.518] WCFサービスを開始します。
+[2018/05/13 10:07:43.504] WCFサービスをTCPポート48083で開始しました。
+[2018/05/13 10:07:43.504] 全ての初期化処理を完了しました。
+[2018/05/13 10:07:43.504] End MainWindow.Load
+[2018/05/13 23:22:32.280] <<App Start>>
+[2018/05/13 23:22:32.282] Begin MainWindow.Constructor
+[2018/05/13 23:22:34.300] ProductName = "Spinel"
+[2018/05/13 23:22:34.301] ProductVersion = "3.6.1.1"
+[2018/05/13 23:22:34.328] ProcessName = "Spinel"
+[2018/05/13 23:22:34.328] PID = 8072
+[2018/05/13 23:22:34.329] BaseDirectory = "C:\TV\Spinel\"
+[2018/05/13 23:22:34.329] Environment.MachineName = "DT1"
+[2018/05/13 23:22:34.330] Environment.Version = "2.0.50727.8922"
+[2018/05/13 23:22:34.330] Environment.OSVersion = "Microsoft Windows NT 6.2.9200.0"
+[2018/05/13 23:22:34.331] Environment.UserInteractive = "True"
+[2018/05/13 23:22:34.332] IntPtr.Size = 4
+[2018/05/13 23:22:34.332] Modules Info
+[2018/05/13 23:22:34.332]   modules[0].FullyQualifiedName = "C:\TV\Spinel\Spinel.exe"
+[2018/05/13 23:22:34.333]   modules[0].PortableExecutableKinds = "ILOnly, Required32Bit"
+[2018/05/13 23:22:34.333]   modules[0].ImageFileMachine = "I386"
+[2018/05/13 23:22:34.334] .NET Framework Assemblies Info
+[2018/05/13 23:22:34.337]   C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll:
+[2018/05/13 23:22:34.337]     FileVersion = 2.0.50727.8922 (WinRelRS4.050727-8900)
+[2018/05/13 23:22:34.339]   C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll:
+[2018/05/13 23:22:34.339]     FileVersion = 2.0.50727.8922 (WinRelRS4.050727-8900)
+[2018/05/13 23:22:34.340]   C:\WINDOWS\assembly\GAC_MSIL\System.Core\3.5.0.0__b77a5c561934e089\System.Core.dll:
+[2018/05/13 23:22:34.340]     FileVersion = 3.5.30729.8931 built by: WinRelRS4
+[2018/05/13 23:22:34.340] End MainWindow.Constructor
+[2018/05/13 23:22:34.406] Begin MainWindow.Load
+[2018/05/13 23:22:34.407] Begin Load Setting File
+[2018/05/13 23:22:34.408]   ServerPortNo = 48083
+[2018/05/13 23:22:34.408]   KeepChannelOnClose = PT3
+[2018/05/13 23:22:34.408]   EnableTSOptimizer = False
+[2018/05/13 23:22:34.408]   AlwaysConfirmOnExit = False
+[2018/05/13 23:22:34.408]   ConfirmOnShutdownIfClientExists = True
+[2018/05/13 23:22:34.408]   ExitOnSuspend = False
+[2018/05/13 23:22:34.408]   DescrambleControl = AlwaysEnable(1)
+[2018/05/13 23:22:34.408] End Load Setting File
+[2018/05/13 23:22:34.408] TSDataLink TCP Serverを開始します。
+[2018/05/13 23:22:34.428] TSDataLink TCP Serverをポート48084で開始しました。
+[2018/05/13 23:22:34.428] TSDataLink NamedPipe Serverを開始します。
+[2018/05/13 23:22:34.435] TSDataLink NamedPipe Serverを開始しました。
+[2018/05/13 23:22:34.435] デバイス定義リストを初期化します。
+[2018/05/13 23:22:34.447] デバイス定義ファイル DeviceDifinitions/#Base.xml を読み込んでいます。
+[2018/05/13 23:22:34.498] デバイス定義リストを初期化しました。
+[2018/05/13 23:22:34.498] USBデバイスIDマップを初期化します。
+[2018/05/13 23:22:34.499] USBデバイスIDマッピングファイル USBDeviceIDMapping.ini が存在しません。
+BonDriver_HDP2によるチューナのロードはHDP2以外無視されます。
+[2018/05/13 23:22:34.499] USBデバイスIDマップを初期化しました。
+[2018/05/13 23:22:34.509] LoadBonDrivers: BonDriverMapping.json を読み込みます。
+[2018/05/13 23:22:34.518] LoadBonDrivers: BonDriverの読み込みを開始します。
+[2018/05/13 23:22:34.771] CreateMulticastTuner: BonDriver_PT3-T0.dll => PT3/0/T/0
+[2018/05/13 23:22:34.824] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/T/0 のチャンネル識別を開始します。
+[2018/05/13 23:22:34.837] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 23:22:34.853] MulticastTuner[PT3/0/T/0].Constructor: チューナーを初期化しました。
+[2018/05/13 23:22:34.854] CreateMulticastTuner: BonDriver_PT3-T1.dll => PT3/0/T/1
+[2018/05/13 23:22:34.870] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/T/1 のチャンネル識別を開始します。
+[2018/05/13 23:22:34.870] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 23:22:34.870] MulticastTuner[PT3/0/T/1].Constructor: チューナーを初期化しました。
+[2018/05/13 23:22:34.873] CreateMulticastTuner: BonDriver_PT3-S0.dll => PT3/0/S/0
+[2018/05/13 23:22:34.893] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/S/0 のチャンネル識別を開始します。
+[2018/05/13 23:22:34.900] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 23:22:34.900] MulticastTuner[PT3/0/S/0].Constructor: チューナーを初期化しました。
+[2018/05/13 23:22:34.900] CreateMulticastTuner: BonDriver_PT3-S1.dll => PT3/0/S/1
+[2018/05/13 23:22:34.915] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/S/1 のチャンネル識別を開始します。
+[2018/05/13 23:22:34.915] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 23:22:34.915] MulticastTuner[PT3/0/S/1].Constructor: チューナーを初期化しました。
+[2018/05/13 23:22:34.915] LoadBonDriverGeneric: デバイス名 PT3 を、1個追加しました。
+[2018/05/13 23:22:34.920] LoadBonDrivers: BonDriverの読み込みを完了しました。
+[2018/05/13 23:22:34.925] ConstructDeviceTreeView: デバイスツリーUIを生成します。
+[2018/05/13 23:22:34.948] ConstructDeviceTreeView: デバイスツリーUIを生成しました。
+[2018/05/13 23:22:34.948] WCFサービスを開始します。
+[2018/05/13 23:22:35.910] WCFサービスをTCPポート48083で開始しました。
+[2018/05/13 23:22:35.910] 全ての初期化処理を完了しました。
+[2018/05/13 23:22:35.910] End MainWindow.Load
+[2018/05/13 23:27:22.360] <<App Start>>
+[2018/05/13 23:27:22.361] Begin MainWindow.Constructor
+[2018/05/13 23:27:26.992] ProductName = "Spinel"
+[2018/05/13 23:27:26.992] ProductVersion = "3.6.1.1"
+[2018/05/13 23:27:27.008] ProcessName = "Spinel"
+[2018/05/13 23:27:27.008] PID = 10804
+[2018/05/13 23:27:27.009] BaseDirectory = "C:\TV\Spinel\"
+[2018/05/13 23:27:27.009] Environment.MachineName = "DT1"
+[2018/05/13 23:27:27.009] Environment.Version = "2.0.50727.8922"
+[2018/05/13 23:27:27.010] Environment.OSVersion = "Microsoft Windows NT 6.2.9200.0"
+[2018/05/13 23:27:27.011] Environment.UserInteractive = "True"
+[2018/05/13 23:27:27.011] IntPtr.Size = 4
+[2018/05/13 23:27:27.011] Modules Info
+[2018/05/13 23:27:27.011]   modules[0].FullyQualifiedName = "C:\TV\Spinel\Spinel.exe"
+[2018/05/13 23:27:27.011]   modules[0].PortableExecutableKinds = "ILOnly, Required32Bit"
+[2018/05/13 23:27:27.012]   modules[0].ImageFileMachine = "I386"
+[2018/05/13 23:27:27.012] .NET Framework Assemblies Info
+[2018/05/13 23:27:27.014]   C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll:
+[2018/05/13 23:27:27.014]     FileVersion = 2.0.50727.8922 (WinRelRS4.050727-8900)
+[2018/05/13 23:27:27.015]   C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll:
+[2018/05/13 23:27:27.015]     FileVersion = 2.0.50727.8922 (WinRelRS4.050727-8900)
+[2018/05/13 23:27:27.016]   C:\WINDOWS\assembly\GAC_MSIL\System.Core\3.5.0.0__b77a5c561934e089\System.Core.dll:
+[2018/05/13 23:27:27.016]     FileVersion = 3.5.30729.8931 built by: WinRelRS4
+[2018/05/13 23:27:27.016] End MainWindow.Constructor
+[2018/05/13 23:27:27.105] Begin MainWindow.Load
+[2018/05/13 23:27:27.106] Begin Load Setting File
+[2018/05/13 23:27:27.108]   ServerPortNo = 48083
+[2018/05/13 23:27:27.108]   KeepChannelOnClose = PT3
+[2018/05/13 23:27:27.108]   EnableTSOptimizer = False
+[2018/05/13 23:27:27.108]   AlwaysConfirmOnExit = False
+[2018/05/13 23:27:27.108]   ConfirmOnShutdownIfClientExists = True
+[2018/05/13 23:27:27.108]   ExitOnSuspend = False
+[2018/05/13 23:27:27.108]   DescrambleControl = AlwaysEnable(1)
+[2018/05/13 23:27:27.108] End Load Setting File
+[2018/05/13 23:27:27.108] TSDataLink TCP Serverを開始します。
+[2018/05/13 23:27:27.137] TSDataLink TCP Serverをポート48084で開始しました。
+[2018/05/13 23:27:27.137] TSDataLink NamedPipe Serverを開始します。
+[2018/05/13 23:27:27.149] TSDataLink NamedPipe Serverを開始しました。
+[2018/05/13 23:27:27.149] デバイス定義リストを初期化します。
+[2018/05/13 23:27:27.167] デバイス定義ファイル DeviceDifinitions/#Base.xml を読み込んでいます。
+[2018/05/13 23:27:27.225] デバイス定義リストを初期化しました。
+[2018/05/13 23:27:27.226] USBデバイスIDマップを初期化します。
+[2018/05/13 23:27:27.227] USBデバイスIDマッピングファイル USBDeviceIDMapping.ini が存在しません。
+BonDriver_HDP2によるチューナのロードはHDP2以外無視されます。
+[2018/05/13 23:27:27.227] USBデバイスIDマップを初期化しました。
+[2018/05/13 23:27:27.234] LoadBonDrivers: BonDriverMapping.json を読み込みます。
+[2018/05/13 23:27:27.246] LoadBonDrivers: BonDriverの読み込みを開始します。
+[2018/05/13 23:27:27.435] CreateMulticastTuner: BonDriver_PT3-T0.dll => PT3/0/T/0
+[2018/05/13 23:27:27.510] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/T/0 のチャンネル識別を開始します。
+[2018/05/13 23:27:27.534] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 23:27:27.558] MulticastTuner[PT3/0/T/0].Constructor: チューナーを初期化しました。
+[2018/05/13 23:27:27.558] CreateMulticastTuner: BonDriver_PT3-T1.dll => PT3/0/T/1
+[2018/05/13 23:27:27.578] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/T/1 のチャンネル識別を開始します。
+[2018/05/13 23:27:27.578] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 23:27:27.579] MulticastTuner[PT3/0/T/1].Constructor: チューナーを初期化しました。
+[2018/05/13 23:27:27.581] CreateMulticastTuner: BonDriver_PT3-S0.dll => PT3/0/S/0
+[2018/05/13 23:27:27.614] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/S/0 のチャンネル識別を開始します。
+[2018/05/13 23:27:27.626] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 23:27:27.627] MulticastTuner[PT3/0/S/0].Constructor: チューナーを初期化しました。
+[2018/05/13 23:27:27.627] CreateMulticastTuner: BonDriver_PT3-S1.dll => PT3/0/S/1
+[2018/05/13 23:27:27.672] BonTuner.ctor: AutoChannelMapperを使用して PT3/0/S/1 のチャンネル識別を開始します。
+[2018/05/13 23:27:27.673] BonTuner.ctor: チャンネル識別が終了しました。
+[2018/05/13 23:27:27.673] MulticastTuner[PT3/0/S/1].Constructor: チューナーを初期化しました。
+[2018/05/13 23:27:27.673] LoadBonDriverGeneric: デバイス名 PT3 を、1個追加しました。
+[2018/05/13 23:27:27.685] LoadBonDrivers: BonDriverの読み込みを完了しました。
+[2018/05/13 23:27:27.694] ConstructDeviceTreeView: デバイスツリーUIを生成します。
+[2018/05/13 23:27:27.751] ConstructDeviceTreeView: デバイスツリーUIを生成しました。
+[2018/05/13 23:27:27.751] WCFサービスを開始します。
+[2018/05/13 23:27:29.044] WCFサービスをTCPポート48083で開始しました。
+[2018/05/13 23:27:29.044] 全ての初期化処理を完了しました。
+[2018/05/13 23:27:29.044] End MainWindow.Load

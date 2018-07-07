@@ -1,0 +1,11 @@
+﻿{"BonDriverMappingRules":
+	[
+		{
+			"DeviceName": "PT3",
+			"Mapping": {
+				"ISDB_T": "^BonDriver_PT3-T.*?.dll$",
+				"ISDB_S": "^BonDriver_PT3-S.*?.dll$",
+			}
+		},
+	]
+}

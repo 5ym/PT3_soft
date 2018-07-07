@@ -1,0 +1,75 @@
+[2018/04/19 10:00:51.925] Spinelとのリンクに失敗しました。接続要求がタイムアウトしました。
+Spinelが起動していないか、ポートが開いていないため接続できません。
+Exception: System.ServiceModel.EndpointNotFoundException
+Message: net.tcp://127.0.0.1:48083/Lapis.Spinel/ServerInformation に接続できませんでした。接続試行の継続時間は 00:00:01.0017401 でした。TCP エラー コード 10061: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083。 
+InnerException: System.Net.Sockets.SocketException
+InnerMessage: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083
+[2018/04/30 10:00:51.591] Spinelとのリンクに失敗しました。接続要求がタイムアウトしました。
+Spinelが起動していないか、ポートが開いていないため接続できません。
+Exception: System.ServiceModel.EndpointNotFoundException
+Message: net.tcp://127.0.0.1:48083/Lapis.Spinel/ServerInformation に接続できませんでした。接続試行の継続時間は 00:00:01.0011525 でした。TCP エラー コード 10061: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083。 
+InnerException: System.Net.Sockets.SocketException
+InnerMessage: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083
+[2018/05/01 10:00:51.382] Spinelとのリンクに失敗しました。接続要求がタイムアウトしました。
+Spinelが起動していないか、ポートが開いていないため接続できません。
+Exception: System.ServiceModel.EndpointNotFoundException
+Message: net.tcp://127.0.0.1:48083/Lapis.Spinel/ServerInformation に接続できませんでした。接続試行の継続時間は 00:00:01.0004948 でした。TCP エラー コード 10061: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083。 
+InnerException: System.Net.Sockets.SocketException
+InnerMessage: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083
+[2018/05/08 10:00:51.591] Spinelとのリンクに失敗しました。接続要求がタイムアウトしました。
+Spinelが起動していないか、ポートが開いていないため接続できません。
+Exception: System.ServiceModel.EndpointNotFoundException
+Message: net.tcp://127.0.0.1:48083/Lapis.Spinel/ServerInformation に接続できませんでした。接続試行の継続時間は 00:00:01.0022457 でした。TCP エラー コード 10061: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083。 
+InnerException: System.Net.Sockets.SocketException
+InnerMessage: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083
+[2018/05/10 10:00:51.329] Spinelとのリンクに失敗しました。接続要求がタイムアウトしました。
+Spinelが起動していないか、ポートが開いていないため接続できません。
+Exception: System.ServiceModel.EndpointNotFoundException
+Message: net.tcp://127.0.0.1:48083/Lapis.Spinel/ServerInformation に接続できませんでした。接続試行の継続時間は 00:00:01.0030735 でした。TCP エラー コード 10061: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083。 
+InnerException: System.Net.Sockets.SocketException
+InnerMessage: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083
+[2018/05/11 10:00:51.741] Spinelとのリンクに失敗しました。接続要求がタイムアウトしました。
+Spinelが起動していないか、ポートが開いていないため接続できません。
+Exception: System.ServiceModel.EndpointNotFoundException
+Message: net.tcp://127.0.0.1:48083/Lapis.Spinel/ServerInformation に接続できませんでした。接続試行の継続時間は 00:00:01.0001459 でした。TCP エラー コード 10061: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083。 
+InnerException: System.Net.Sockets.SocketException
+InnerMessage: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083
+[2018/05/12 04:00:51.761] Spinelとのリンクに失敗しました。接続要求がタイムアウトしました。
+Spinelが起動していないか、ポートが開いていないため接続できません。
+Exception: System.ServiceModel.EndpointNotFoundException
+Message: net.tcp://127.0.0.1:48083/Lapis.Spinel/ServerInformation に接続できませんでした。接続試行の継続時間は 00:00:01.0010102 でした。TCP エラー コード 10061: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083。 
+InnerException: System.Net.Sockets.SocketException
+InnerMessage: 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:48083
+[2018/05/14 10:00:32.539] OpenTuner: リモートチューナーのオープンに失敗しました。
+OpenResult=DriverReturnFalse SessionToken=db731c66635a7170926d85dd312cb9ef
+[2018/05/14 20:52:09.342] OpenTuner: リモートチューナーのオープンに失敗しました。
+OpenResult=DriverReturnFalse SessionToken=e82c4403d20bd611c78d69af32b9d41f
+[2018/06/04 16:33:13.630] OpenTuner: リモートチューナーのオープンに失敗しました。
+OpenResult=CantGetExclusiveControl SessionToken=b83438232a59dd9cedcff4acf752a20d
+[2018/06/04 16:46:11.896] CloseTuner: System.ServiceModel.CommunicationObjectFaultedException例外が発生しました。
+System.ServiceModel.CommunicationObjectFaultedException: 通信オブジェクト System.ServiceModel.Channels.ServiceChannel は、状態が Faulted であるため通信に使用できません。
+
+Server stack trace: 
+   場所 System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   場所 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   場所 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   場所 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   場所 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   場所 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   場所 IRemoteTuner.Close()
+   場所 SpinelClient.CloseTuner()
+[2018/06/04 16:46:11.911] ~SpinelClient: System.ServiceModel.CommunicationObjectFaultedException例外が発生しました。
+System.ServiceModel.CommunicationObjectFaultedException: 通信オブジェクト System.ServiceModel.Channels.ServiceChannel は、状態が Faulted であるため通信に使用できません。
+
+Server stack trace: 
+   場所 System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   場所 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   場所 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   場所 System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   場所 System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   場所 System.ServiceModel.ClientBase`1.Close()
+   場所 SpinelClient.~SpinelClient()

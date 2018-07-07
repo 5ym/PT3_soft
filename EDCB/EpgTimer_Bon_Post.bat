@@ -1,0 +1,10 @@
+set a=˜^‰æ‚ð’Ç‰Á‚µ‚Ü‚µ‚½
+set b=01:40`02:10‚s‚n‚j‚x‚n@‚l‚w‚P
+set c=‚a‚‚ƒ‚‹@‚r‚”‚’‚…‚…‚”@‚f‚‰‚’‚Œ‚“@\ƒSƒNƒhƒ‹ƒY\@š‘æ‚Q˜b
+set d=@5MYUI
+chcp 65001
+echo %a%>C:\TV\EDCB\twitterbot\tweet.txt
+echo %b%>>C:\TV\EDCB\twitterbot\tweet.txt
+echo %c%>>C:\TV\EDCB\twitterbot\tweet.txt
+echo %d%>>C:\TV\EDCB\twitterbot\tweet.txt
+php C:\TV\EDCB\twitterbot\tweet.php

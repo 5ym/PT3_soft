@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DeviceDefinitions>	
+  <DeviceDefinition DeviceName="PT3" DisplayName="EarthSoft PT3">
+   <TunerDefinitions>
+    <TunerDefinition TunerType="ISDB_T" Count="2">
+     <ChannelCategories>
+      <ChannelCategory>UHF</ChannelCategory>
+      <ChannelCategory>CATV</ChannelCategory>
+      <ChannelCategory>VHF</ChannelCategory>
+     </ChannelCategories>
+    </TunerDefinition>
+    <TunerDefinition TunerType="ISDB_S" Count="2">
+     <ChannelCategories>
+      <ChannelCategory>BS</ChannelCategory>
+      <ChannelCategory>CS110</ChannelCategory>
+     </ChannelCategories>
+    </TunerDefinition>
+   </TunerDefinitions>
+  </DeviceDefinition>
+</DeviceDefinitions>
