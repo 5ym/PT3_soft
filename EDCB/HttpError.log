@@ -59,3 +59,5 @@
 [1529499100] [error] [client 192.168.0.3] GET /api/Movie: end
 [1529676198] [error] [client ] accept_new_connection: 192.168.0.229 is not allowed to connect
 [1530287947] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1534291246] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1534292256] [error] [client 192.168.0.3] GET /api/Movie: end
