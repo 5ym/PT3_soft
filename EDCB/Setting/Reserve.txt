@@ -1,4 +1,1 @@
-2018/08/29	01:40:00	00:30:00	‚a‚‚ƒ‚‹@‚r‚”‚’‚…‚…‚”@‚f‚‰‚’‚Œ‚“@\ƒSƒNƒhƒ‹ƒY\@š‘æ‚X˜b	‚s‚n‚j‚x‚n@‚l‚w‚P	32391	32391	23608	44514	2	1	324	0	0	0	0	EPG©“®—\–ñ(ƒSƒNƒhƒ‹ƒY)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/08/29	01:40:00	0	0	0	0	0	0	
-2018/08/29	01:34:00	00:30:00	ƒ‹ƒpƒ“O¢@‚o‚`‚q‚s‚T@”‚Q‚P@‚`‚‚‰‚ƒ‚ˆ‚t	“úƒeƒŒ‚P	32738	32738	1040	9303	2	1	325	0	0	0	0	EPG©“®—\–ñ(ƒ‹ƒpƒ“O¢ PART5)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/08/29	01:34:00	0	0	0	0	0	0	
-2018/08/29	02:04:00	00:30:00	’†ŠÔŠÇ—˜^ƒgƒlƒKƒ@Agenda09@‚`‚‚‰‚ƒ‚ˆ‚t	“úƒeƒŒ‚P	32738	32738	1040	9304	2	1	326	0	0	0	0	EPG©“®—\–ñ(’†ŠÔŠÇ—˜^ƒgƒlƒKƒ)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/08/29	02:04:00	0	0	0	0	0	0	
-;;NextID=328
+;;NextID=350

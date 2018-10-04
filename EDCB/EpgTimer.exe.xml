@@ -81,6 +81,8 @@
   <NoBallonTips>false</NoBallonTips>
   <ForceHideBalloonTipSec>0</ForceHideBalloonTipSec>
   <PlayDClick>false</PlayDClick>
+  <ConfirmDelRecInfo>true</ConfirmDelRecInfo>
+  <ConfirmDelRecInfoAlways>false</ConfirmDelRecInfoAlways>
   <ShowEpgCapServiceOnly>false</ShowEpgCapServiceOnly>
   <SortServiceList>true</SortServiceList>
   <ExitAfterProcessingArgs>false</ExitAfterProcessingArgs>
@@ -204,6 +206,7 @@
   <Cust2BtnCmd />
   <Cust2BtnCmdOpt />
   <AndKeyList>
+    <string>シュタインズ</string>
     <string>ルパン三世 ＰＡＲＴ５</string>
     <string>[新]</string>
     <string>ポプテピピック</string>
@@ -233,7 +236,6 @@
     <string>UQ</string>
     <string>キノの旅　ｔｈｅ　Ａｎｉｍａｔｅｄ　Ｓｅｒｉｅｓ　＃２</string>
     <string>1</string>
-    <string>Ｆａｔｅ／Ａｐｏｃｒｙｐｈａ　＃１２</string>
   </AndKeyList>
   <NotKeyList />
   <SearchKeyAndKey />

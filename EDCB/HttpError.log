@@ -61,3 +61,40 @@
 [1530287947] [error] [client 192.168.0.3] GET /api/Movie: canceled
 [1534291246] [error] [client 192.168.0.3] GET /api/Movie: canceled
 [1534292256] [error] [client 192.168.0.3] GET /api/Movie: end
+[1535764973] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535764973] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535764973] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535764973] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535764973] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535764981] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535764981] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535764982] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535764982] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535764987] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535764987] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765098] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765098] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765098] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765098] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765098] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765100] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765100] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765100] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
+[1535888004] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
+[1535888004] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
+[1535888025] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
+[1535888025] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
+[1535888034] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
+[1535888034] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
+[1535888045] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
+[1535888045] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
+[1537607224] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1537607254] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1537607278] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1538637159] [error] [client 192.168.0.3] GET /api/Movie: canceled
