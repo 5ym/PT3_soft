@@ -1,6 +1,6 @@
-set a=˜^‰æ‚ðI—¹‚µ‚Ü‚µ‚½
-set b=01:25`01:40“úƒeƒŒ‚P
-set c=‰Élƒ‰ƒaƒI`‚ˆ‚‰|‚h‚l‚`‚f‚h‚m‚d@‚q‚`‚c‚h‚n`
+set a=˜^‰æ‚ð’Ç‰Á‚µ‚Ü‚µ‚½
+set b=02:04`02:34“úƒeƒŒ‚P
+set c=’†ŠÔŠÇ—˜^ƒgƒlƒKƒ@Agenda14@‚`‚Ž‚‰‚ƒ‚ˆ‚t
 set d=@5MYUI
 chcp 65001
 echo %a%>C:\TV\EDCB\twitterbot\tweet.txt

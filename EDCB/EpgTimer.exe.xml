@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
   <UseCustomEpgView>true</UseCustomEpgView>
   <CustomEpgTabList>
     <CustomEpgTabInfo>
@@ -49,8 +49,8 @@
       <ViewContentKindList />
       <SearchMode>false</SearchMode>
       <SearchKey>
-        <andKey />
-        <notKey />
+        <andKey></andKey>
+        <notKey></notKey>
         <regExpFlag>0</regExpFlag>
         <titleOnlyFlag>0</titleOnlyFlag>
         <contentList />
@@ -157,8 +157,8 @@
   <EpgBorderLeftSize>2</EpgBorderLeftSize>
   <EpgBorderTopSize>0.5</EpgBorderTopSize>
   <EpgTitleIndent>true</EpgTitleIndent>
-  <EpgReplacePattern />
-  <EpgReplacePatternTitle />
+  <EpgReplacePattern></EpgReplacePattern>
+  <EpgReplacePatternTitle></EpgReplacePatternTitle>
   <EpgToolTipNoViewOnly>true</EpgToolTipNoViewOnly>
   <EpgToolTipViewWait>1500</EpgToolTipViewWait>
   <EpgPopup>true</EpgPopup>
@@ -199,16 +199,18 @@
     <string>（セパレータ）</string>
     <string>終了</string>
   </TaskMenuList>
-  <Cust1BtnName />
-  <Cust1BtnCmd />
-  <Cust1BtnCmdOpt />
-  <Cust2BtnName />
-  <Cust2BtnCmd />
-  <Cust2BtnCmdOpt />
+  <Cust1BtnName></Cust1BtnName>
+  <Cust1BtnCmd></Cust1BtnCmd>
+  <Cust1BtnCmdOpt></Cust1BtnCmdOpt>
+  <Cust2BtnName></Cust2BtnName>
+  <Cust2BtnCmd></Cust2BtnCmd>
+  <Cust2BtnCmdOpt></Cust2BtnCmdOpt>
   <AndKeyList>
+    <string>トネガワ</string>
+    <string>[新]</string>
+    <string>やがて君になる</string>
     <string>シュタインズ</string>
     <string>ルパン三世 ＰＡＲＴ５</string>
-    <string>[新]</string>
     <string>ポプテピピック</string>
     <string>ルパン三世</string>
     <string>ルパン三世 ＰＡＲ</string>
@@ -234,12 +236,10 @@
     <string>あ</string>
     <string>新</string>
     <string>UQ</string>
-    <string>キノの旅　ｔｈｅ　Ａｎｉｍａｔｅｄ　Ｓｅｒｉｅｓ　＃２</string>
-    <string>1</string>
   </AndKeyList>
   <NotKeyList />
-  <SearchKeyAndKey />
-  <SearchKeyNotKey />
+  <SearchKeyAndKey></SearchKeyAndKey>
+  <SearchKeyNotKey></SearchKeyNotKey>
   <SearchKeyRegExp>false</SearchKeyRegExp>
   <SearchKeyTitleOnly>false</SearchKeyTitleOnly>
   <SearchKeyAimaiFlag>false</SearchKeyAimaiFlag>
@@ -255,7 +255,7 @@
   <RecInfoSortDirection>Descending</RecInfoSortDirection>
   <RecInfoHideButton>false</RecInfoHideButton>
   <TvTestExe>C:\TV\TVTest\TVTest.exe</TvTestExe>
-  <TvTestCmd />
+  <TvTestCmd></TvTestCmd>
   <NwTvMode>true</NwTvMode>
   <NwTvModeUDP>true</NwTvModeUDP>
   <NwTvModeTCP>true</NwTvModeTCP>
@@ -264,10 +264,10 @@
   <FilePlayCmd>"$FilePath$"</FilePlayCmd>
   <FilePlayOnAirWithExe>true</FilePlayOnAirWithExe>
   <IEpgStationList />
-  <NWServerIP />
+  <NWServerIP></NWServerIP>
   <NWServerPort>4510</NWServerPort>
   <NWWaitPort>0</NWWaitPort>
-  <NWMacAdd />
+  <NWMacAdd></NWMacAdd>
   <WakeReconnectNW>false</WakeReconnectNW>
   <SuspendCloseNW>false</SuspendCloseNW>
   <NgAutoEpgLoadNW>false</NgAutoEpgLoadNW>
@@ -443,8 +443,6 @@
       <Width>NaN</Width>
     </ListColumnInfo>
   </AutoAddManualColumn>
-  <SearchWndLeft>520</SearchWndLeft>
-  <SearchWndTop>142</SearchWndTop>
   <SearchWndWidth>943</SearchWndWidth>
   <SearchWndHeight>797</SearchWndHeight>
   <NotifyLogMax>100</NotifyLogMax>

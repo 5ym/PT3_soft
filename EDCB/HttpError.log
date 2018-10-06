@@ -98,3 +98,10 @@
 [1537607254] [error] [client 192.168.0.3] GET /api/Movie: canceled
 [1537607278] [error] [client 192.168.0.3] GET /api/Movie: canceled
 [1538637159] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1538753661] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1538753663] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1538753666] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1538753671] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1538753690] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1538753693] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1538754230] [error] [client 192.168.0.3] GET /api/Movie: end
