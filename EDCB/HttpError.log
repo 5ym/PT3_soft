@@ -1,107 +1,69 @@
-[1528260938] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528260971] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528260983] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528261825] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528412516] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528412526] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528412546] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528412548] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528412640] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528412648] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528412678] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528412745] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528965167] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528965168] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528965170] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528965227] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528965253] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528965270] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528966159] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528966161] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528966165] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528966167] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1528966940] [error] [client 192.168.0.3] GET /api/Movie: end
-[1529038276] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038306] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038308] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038334] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038342] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038342] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038347] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038347] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038362] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038403] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038462] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529038618] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529421604] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529421700] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529421794] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529422203] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529423281] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529423283] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529423816] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496435] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496442] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496443] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496445] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496448] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496704] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496719] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496721] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496726] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496729] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496732] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496734] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496735] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529496737] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529497203] [error] [client 192.168.0.3] GET /api/Movie: end
-[1529497409] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1529499100] [error] [client 192.168.0.3] GET /api/Movie: end
-[1529676198] [error] [client ] accept_new_connection: 192.168.0.229 is not allowed to connect
-[1530287947] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1534291246] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1534292256] [error] [client 192.168.0.3] GET /api/Movie: end
-[1535764973] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535764973] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535764973] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535764973] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535764973] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535764981] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535764981] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535764982] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535764982] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535764987] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535764987] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765098] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765098] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765098] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765098] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765098] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765100] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765100] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765100] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535765101] [error] [client ] accept_new_connection: 192.168.0.2 is not allowed to connect
-[1535888004] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
-[1535888004] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
-[1535888025] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
-[1535888025] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
-[1535888034] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
-[1535888034] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
-[1535888045] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
-[1535888045] [error] [client ] accept_new_connection: 127.0.0.1 is not allowed to connect
-[1537607224] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1537607254] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1537607278] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1538637159] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1538753661] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1538753663] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1538753666] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1538753671] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1538753690] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1538753693] [error] [client 192.168.0.3] GET /api/Movie: canceled
-[1538754230] [error] [client 192.168.0.3] GET /api/Movie: end
+[1539090758] [error] [client 192.168.0.3] GET /api/Movie: end
+[1539170021] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539176188] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539176193] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539176195] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539176706] [error] [client 192.168.0.3] GET /api/Movie: end
+[1539247472] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539778972] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539778975] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539780082] [error] [client 192.168.0.3] GET /api/Movie: end
+[1539956508] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539956511] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539956513] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539956519] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957047] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957049] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957053] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957055] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957059] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957062] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957065] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957067] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957069] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957072] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957075] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1539957750] [error] [client 192.168.0.3] GET /api/Movie: end
+[1540293702] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375498] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375502] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375503] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375506] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375511] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375705] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375708] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375709] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375713] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375716] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375720] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375723] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375725] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375728] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375732] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375735] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540375738] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376140] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376141] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376145] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376148] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376150] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376152] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376155] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376156] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376159] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376163] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376165] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1540376704] [error] [client 192.168.0.3] GET /api/Movie: end
+[1540735276] [error] [client 192.168.0.3] GET /api/Movie: end
+[1541425753] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1541425754] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1541425756] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1541425759] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1541426650] [error] [client 192.168.0.3] GET /api/Movie: end
+[1541601041] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1541601051] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1541601056] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1541601418] [error] [client 192.168.0.3] GET /api/Movie: end
+[1541660101] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1541660110] [error] [client 192.168.0.3] GET /api/Movie: canceled
+[1541660124] [error] [client 192.168.0.3] GET /api/Movie: canceled

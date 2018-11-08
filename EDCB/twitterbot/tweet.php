@@ -5,7 +5,7 @@
 		'oauth_timestamp'        => time(),
 		'oauth_version'          => '1.0',
 		'oauth_nonce'            => bin2hex(openssl_random_pseudo_bytes(16)),
-		'oauth_token'            => '3225228042-hjuTXoV3eIJIMhj06HYB7WK2MgvVT9jSDOWww5n',
+		'oauth_token'            => '3225228042-CxSaC4XBLgSaTztlkGxFJGOkyjP569FOG8wx9Xm',
 	];
 	// oauth_signature生成まで使われる追加パラメータ
 	$additional_params = [
@@ -14,7 +14,7 @@
 	// ベース
 	$base = $oauth_params + $additional_params;
 	// キー
-	$key = ['MC0jlwZmYaJXcGQoB6JFaBgtU5rymXFHveWoucPB7IB64kyKEN', 'XYVe3CaEV5zEUllrHsw8SftRAxjnBw9oIoD37KzBU1xgR'];
+	$key = ['MC0jlwZmYaJXcGQoB6JFaBgtU5rymXFHveWoucPB7IB64kyKEN', 'gWwiCF8TFEwPi04FfCxxL97fqwM7PkdG9fbMQJ2hBVjRR'];
 	uksort($base, 'strnatcmp');
 	$oauth_params['oauth_signature'] = base64_encode(hash_hmac(
 		'sha1',

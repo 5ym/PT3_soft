@@ -1,5 +1,8 @@
-2018/10/09	23:00:00	00:30:00	[V]“Œ‹‹òíF‚’‚…@”‚P‚Ru‚»‚µ‚ÄA‚à‚¤ˆê“x@‚o‚Œ‚‚ƒ‚…v	‚s‚n‚j‚x‚n@‚l‚w‚P	32391	32391	23608	52008	2	1	351	0	0	0	0	EPG©“®—\–ñ(“Œ‹‹òí)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	10	5	49	2018/10/09	23:00:00	0	0	0	0	0	0	
-2018/10/12	22:30:00	00:30:00	‚â‚ª‚ÄŒN‚É‚È‚é@”‚Q	‚s‚n‚j‚x‚n@‚l‚w‚P	32391	32391	23608	52570	2	1	352	0	0	0	0	EPG©“®—\–ñ(‚â‚ª‚ÄŒN‚É‚È‚é)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/10/12	22:30:00	0	0	0	0	0	0	
-2018/10/08	01:35:00	00:15:00	‰Élƒ‰ƒaƒI`‚ˆ‚‰|‚h‚l‚`‚f‚h‚m‚d@‚q‚`‚c‚h‚n`	“úƒeƒŒ‚P	32738	32738	1040	10368	2	1	353	0	0	0	0	EPG©“®—\–ñ(ƒgƒlƒKƒ)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	10	5	49	2018/10/08	01:35:00	0	0	0	0	0	0	
-2018/10/10	02:04:00	00:30:00	’†ŠÔŠÇ—˜^ƒgƒlƒKƒ@Agenda14@‚`‚‚‰‚ƒ‚ˆ‚t	“úƒeƒŒ‚P	32738	32738	1040	10409	2	1	354	0	0	0	0	EPG©“®—\–ñ(ƒgƒlƒKƒ)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	10	5	49	2018/10/10	02:04:00	0	0	0	0	0	0	
-;;NextID=355
+2018/11/09	22:30:00	00:30:00	‚â‚ª‚ÄŒN‚É‚È‚é@”‚U	‚s‚n‚j‚x‚n@‚l‚w‚P	32391	32391	23608	57709	2	1	381	0	0	0	0	EPG©“®—\–ñ(‚â‚ª‚ÄŒN‚É‚È‚é)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/11/09	22:30:00	0	0	0	0	0	0	
+2018/11/11	22:30:00	00:30:00	‚c‚n‚t‚a‚k‚d@‚c‚d‚b‚j‚d‚qI@ƒ_ƒO•ƒLƒŠƒ‹@”‚V	‚s‚n‚j‚x‚n@‚l‚w‚P	32391	32391	23608	58078	2	1	382	0	0	0	0	EPG©“®—\–ñ(DOUBLE DECKER)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/11/11	22:30:00	0	0	0	0	0	0	
+2018/11/12	02:36:00	00:15:00	‰Élƒ‰ƒaƒI`‚ˆ‚‰|‚h‚l‚`‚f‚h‚m‚d@‚q‚`‚c‚h‚n`	“úƒeƒŒ‚P	32738	32738	1040	11312	2	1	383	0	0	0	0	EPG©“®—\–ñ(ƒgƒlƒKƒ)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/11/12	02:36:00	0	0	0	0	0	0	
+2018/11/12	22:30:00	00:30:00	‚ ‚©‚Ë‚³‚·­—@”‚V	‚s‚n‚j‚x‚n@‚l‚w‚P	32391	32391	23608	58253	2	1	384	0	0	0	0	EPG©“®—\–ñ(‚ ‚©‚Ë‚³‚·)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/11/12	22:30:00	0	0	0	0	0	0	
+2018/11/13	23:00:00	00:30:00	“Œ‹‹òíF‚’‚…@”‚P‚WuŠqX‚½‚é@‚e‚`‚b‚dv	‚s‚n‚j‚x‚n@‚l‚w‚P	32391	32391	23608	58385	2	1	385	0	0	0	0	EPG©“®—\–ñ(“Œ‹‹òí)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/11/13	23:00:00	0	0	0	0	0	0	
+2018/11/14	02:05:00	00:30:00	’†ŠÔŠÇ—˜^ƒgƒlƒKƒ@Agenda19@‚`‚‚‰‚ƒ‚ˆ‚t	“úƒeƒŒ‚P	32738	32738	1040	11360	2	1	386	0	0	0	0	EPG©“®—\–ñ(ƒgƒlƒKƒ)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/11/14	02:05:00	0	0	0	0	0	0	
+2018/11/15	01:05:00	00:30:00	‚q‚d‚’‚‰‚„‚…‚c|‰z‚¦‚ÌƒfƒŠƒ_|@”‚V	‚s‚n‚j‚x‚n@‚l‚w‚P	32391	32391	23608	58567	2	1	387	0	0	0	0	EPG©“®—\–ñ(RErideD)	C:\Users\16yui\Desktop\ts*Write_Default.dll*RecName_Macro.dll	0	0		0	0	0	49	2018/11/15	01:05:00	0	0	0	0	0	0	
+;;NextID=388
