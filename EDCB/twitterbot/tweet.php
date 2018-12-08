@@ -1,4 +1,5 @@
 <?php
+	$url = 'https://api.twitter.com/1.1/statuses/update.json';
 	$oauth_params = [
 		'oauth_consumer_key'     => '3l4fKpPWSX3qrrb8faCma76EM',
 		'oauth_signature_method' => 'HMAC-SHA1',
@@ -13,31 +14,28 @@
 	];
 	// ベース
 	$base = $oauth_params + $additional_params;
-	// キー
-	$key = ['MC0jlwZmYaJXcGQoB6JFaBgtU5rymXFHveWoucPB7IB64kyKEN', 'gWwiCF8TFEwPi04FfCxxL97fqwM7PkdG9fbMQJ2hBVjRR'];
 	uksort($base, 'strnatcmp');
 	$oauth_params['oauth_signature'] = base64_encode(hash_hmac(
 		'sha1',
 		implode('&', array_map('rawurlencode', [
 			'POST',
-			'https://api.twitter.com/1.1/statuses/update.json',
+			$url,
 			http_build_query($base, '', '&', PHP_QUERY_RFC3986)
 		])),
-		implode('&', array_map('rawurlencode', $key)),
+		implode('&', array_map('rawurlencode', ['MC0jlwZmYaJXcGQoB6JFaBgtU5rymXFHveWoucPB7IB64kyKEN', 'gWwiCF8TFEwPi04FfCxxL97fqwM7PkdG9fbMQJ2hBVjRR'])),
 		true
 	));
 	foreach ($oauth_params as $name => $value) {
 		$items[] = sprintf('%s="%s"', urlencode($name), urlencode($value));
 	}
-	$header = 'Authorization: OAuth ' . implode(', ', $items);
 	// cURLを使ってリクエスト
 	$curl = curl_init();
-	curl_setopt($curl, CURLOPT_URL, 'https://api.twitter.com/1.1/statuses/update.json');
+	curl_setopt($curl, CURLOPT_URL, $url);
 	curl_setopt($curl, CURLOPT_HEADER, true);
 	curl_setopt($curl, CURLOPT_POSTFIELDS, http_build_query($additional_params, '', '&'));
 	curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
 	curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-	curl_setopt($curl, CURLOPT_HTTPHEADER, [$header]);
+	curl_setopt($curl, CURLOPT_HTTPHEADER, ['Authorization: OAuth ' . implode(', ', $items)]);
 	$res1 = curl_exec($curl);
 	$res2 = curl_getinfo($curl);
 	curl_close($curl);

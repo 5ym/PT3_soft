@@ -1,7 +1,7 @@
 set a=˜^‰æ‚ðI—¹‚µ‚Ü‚µ‚½
-set b=01:05`01:35‚s‚n‚j‚x‚n@‚l‚w‚P
-set c=‚q‚d‚’‚‰‚„‚…‚c|‰z‚¦‚ÌƒfƒŠƒ_|@”‚Uu’T‚éŽÒA‰B‚·ŽÒv
-set d=@5MYUI
+set b=22:30`23:00‚s‚n‚j‚x‚n@‚l‚w‚P
+set c=‚â‚ª‚ÄŒN‚É‚È‚é@”‚P‚O
+set d=@5dyui
 chcp 65001
 echo %a%>C:\TV\EDCB\twitterbot\tweet.txt
 echo %b%>>C:\TV\EDCB\twitterbot\tweet.txt

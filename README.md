@@ -21,7 +21,7 @@ TVTestの音声フィルタをTvAudioStretchFilterに変更する
 
 Spinelをスタートアップに登録、EpgTimer設定からEpgTimerをスタートアップに追加
 
-TVTestでチャンネルスキャンを実施チャンネルデータをsettingフォルダ内のch2chset.vbsにぶち込む
+TVTestでチャンネルスキャンを実施チャンネルデータをsettingフォルダ内のch2chset.vbsにぶち込むこの時排他要求を出すドライバーを使用してください(viewがついていないもの)
 
 #### Twitter投稿機能に関して
 まずPHPを入れてパスを通す(PHP Curl等でエラー出る可能性あり別途要設定)  
@@ -35,4 +35,4 @@ tweet.phpにCK/CS/AT/ASを記述
 EpgTimerSrv.iniのHttpAccessControlListの部分をアクセスを許可するipアドレスを記載
 
 #### 視聴について
-そのままedcb自体が入っているpcで視聴するとtvtestを録画に使用(bondriverが排他要求を出すため)しているため視聴中に録画が開始した際録画に失敗するため排他要求を出さないように設定したbondriverで視聴するようにしてください尚driverと視聴用batファイルは準備済みなのでtvtestフォルダ内のチャンネルファイル(.ch2)をviewフォルダにコピーしてくださいあとはt1.batファイルを実行するとt1ドライバー(一般的に地デジ)で視聴s1.batで視聴するとs1ドライバー(一般的に衛星放送)で視聴できます
+視聴はviewがついたがついたものを使用してください。view以外で行うと排他要求が出るため録画に失敗することがあります。

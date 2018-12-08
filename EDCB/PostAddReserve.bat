@@ -1,7 +1,7 @@
 set a=˜^‰æ‚ð’Ç‰Á‚µ‚Ü‚µ‚½
 set b=$STHH$:$STMM$`$ETHH$:$ETMM$$ServiceName$
 set c=$Title$
-set d=@5MYUI
+set d=@5dyui
 chcp 65001
 echo %a%>C:\TV\EDCB\twitterbot\tweet.txt
 echo %b%>>C:\TV\EDCB\twitterbot\tweet.txt
