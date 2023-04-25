@@ -1,91 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Settings>
-  <UseCustomEpgView>true</UseCustomEpgView>
-  <CustomEpgTabList>
-    <CustomEpgTabInfo>
-      <TabName>main</TabName>
-      <ViewMode>0</ViewMode>
-      <NeedTimeOnlyBasic>false</NeedTimeOnlyBasic>
-      <NeedTimeOnlyWeek>false</NeedTimeOnlyWeek>
-      <StartTimeWeek>4</StartTimeWeek>
-      <ViewServiceList>
-        <unsignedLong>140602194789376</unsignedLong>
-        <unsignedLong>140602194789377</unsignedLong>
-        <unsignedLong>140606489822216</unsignedLong>
-        <unsignedLong>140606489822217</unsignedLong>
-        <unsignedLong>140606489822218</unsignedLong>
-        <unsignedLong>138845526387768</unsignedLong>
-        <unsignedLong>138845526387769</unsignedLong>
-        <unsignedLong>139051687960632</unsignedLong>
-        <unsignedLong>139051687960633</unsignedLong>
-        <unsignedLong>139051687960634</unsignedLong>
-        <unsignedLong>138708085339192</unsignedLong>
-        <unsignedLong>138708085339193</unsignedLong>
-        <unsignedLong>138708085339194</unsignedLong>
-        <unsignedLong>140610784855056</unsignedLong>
-        <unsignedLong>140610784855057</unsignedLong>
-        <unsignedLong>140623669953576</unsignedLong>
-        <unsignedLong>140623669953577</unsignedLong>
-        <unsignedLong>140623669953578</unsignedLong>
-        <unsignedLong>140615079887896</unsignedLong>
-        <unsignedLong>140615079887897</unsignedLong>
-        <unsignedLong>140627964986416</unsignedLong>
-        <unsignedLong>140627964986417</unsignedLong>
-        <unsignedLong>140627964986418</unsignedLong>
-        <unsignedLong>140619374920736</unsignedLong>
-        <unsignedLong>140619374920737</unsignedLong>
-        <unsignedLong>140619374920738</unsignedLong>
-        <unsignedLong>139120408484920</unsignedLong>
-        <unsignedLong>139120408484921</unsignedLong>
-        <unsignedLong>139120408484922</unsignedLong>
-        <unsignedLong>139146178681960</unsignedLong>
-        <unsignedLong>139146178681961</unsignedLong>
-        <unsignedLong>139154768747640</unsignedLong>
-        <unsignedLong>139154768747641</unsignedLong>
-        <unsignedLong>140636555052096</unsignedLong>
-        <unsignedLong>140636555052097</unsignedLong>
-        <unsignedLong>140636555052098</unsignedLong>
-      </ViewServiceList>
-      <ViewContentKindList />
-      <SearchMode>false</SearchMode>
-      <SearchKey>
-        <andKey></andKey>
-        <notKey></notKey>
-        <regExpFlag>0</regExpFlag>
-        <titleOnlyFlag>0</titleOnlyFlag>
-        <contentList />
-        <dateList />
-        <serviceList />
-        <videoList />
-        <audioList />
-        <aimaiFlag>0</aimaiFlag>
-        <notContetFlag>0</notContetFlag>
-        <notDateFlag>0</notDateFlag>
-        <freeCAFlag>0</freeCAFlag>
-        <chkRecEnd>0</chkRecEnd>
-        <chkRecDay>6</chkRecDay>
-      </SearchKey>
-      <FilterEnded>false</FilterEnded>
-    </CustomEpgTabInfo>
-  </CustomEpgTabList>
+  <UseCustomEpgView>false</UseCustomEpgView>
+  <CustomEpgTabList />
   <MinHeight>2</MinHeight>
-  <MinimumHeight>1</MinimumHeight>
-  <ServiceWidth>100</ServiceWidth>
+  <MinimumHeight>0.6</MinimumHeight>
+  <ServiceWidth>150</ServiceWidth>
+  <MouseScrollAuto>false</MouseScrollAuto>
   <ScrollSize>240</ScrollSize>
-  <FontName>游ゴシック</FontName>
+  <MouseHorizontalScrollAuto>false</MouseHorizontalScrollAuto>
+  <HorizontalScrollSize>150</HorizontalScrollSize>
+  <FontName>メイリオ</FontName>
   <FontSize>12</FontSize>
-  <FontNameTitle>游ゴシック</FontNameTitle>
+  <FontNameTitle>メイリオ</FontNameTitle>
   <FontSizeTitle>12</FontSizeTitle>
   <FontBoldTitle>true</FontBoldTitle>
-  <NoToolTip>false</NoToolTip>
-  <NoBallonTips>false</NoBallonTips>
-  <ForceHideBalloonTipSec>0</ForceHideBalloonTipSec>
-  <PlayDClick>false</PlayDClick>
-  <ConfirmDelRecInfo>true</ConfirmDelRecInfo>
-  <ConfirmDelRecInfoAlways>false</ConfirmDelRecInfoAlways>
-  <ShowEpgCapServiceOnly>false</ShowEpgCapServiceOnly>
-  <SortServiceList>true</SortServiceList>
-  <ExitAfterProcessingArgs>false</ExitAfterProcessingArgs>
   <DragScroll>1.5</DragScroll>
   <ContentColorList>
     <string>LightYellow</string>
@@ -162,21 +90,261 @@
   <EpgToolTipNoViewOnly>true</EpgToolTipNoViewOnly>
   <EpgToolTipViewWait>1500</EpgToolTipViewWait>
   <EpgPopup>true</EpgPopup>
-  <EpgExtInfoPopup>false</EpgExtInfoPopup>
-  <EpgGradation>false</EpgGradation>
-  <EpgGradationHeader>false</EpgGradationHeader>
+  <EpgAdjustPopup>true</EpgAdjustPopup>
+  <EpgExtInfoTable>false</EpgExtInfoTable>
+  <EpgExtInfoPopup>true</EpgExtInfoPopup>
+  <EpgGradation>true</EpgGradation>
+  <EpgGradationHeader>true</EpgGradationHeader>
+  <EpgTipsBackColorR>211</EpgTipsBackColorR>
+  <EpgTipsBackColorG>211</EpgTipsBackColorG>
+  <EpgTipsBackColorB>211</EpgTipsBackColorB>
+  <EpgTipsForeColorR>0</EpgTipsForeColorR>
+  <EpgTipsForeColorG>0</EpgTipsForeColorG>
+  <EpgTipsForeColorB>0</EpgTipsForeColorB>
+  <EpgBackColorA>128</EpgBackColorA>
+  <EpgBackColorR>169</EpgBackColorR>
+  <EpgBackColorG>169</EpgBackColorG>
+  <EpgBackColorB>169</EpgBackColorB>
+  <EpgInfoSingleClick>false</EpgInfoSingleClick>
+  <EpgInfoOpenMode>0</EpgInfoOpenMode>
+  <EpgSetting1>
+    <MinHeight>2</MinHeight>
+    <MinimumHeight>0.6</MinimumHeight>
+    <ServiceWidth>150</ServiceWidth>
+    <MouseScrollAuto>false</MouseScrollAuto>
+    <ScrollSize>240</ScrollSize>
+    <MouseHorizontalScrollAuto>false</MouseHorizontalScrollAuto>
+    <HorizontalScrollSize>150</HorizontalScrollSize>
+    <FontName>メイリオ</FontName>
+    <FontSize>12</FontSize>
+    <FontNameTitle>メイリオ</FontNameTitle>
+    <FontSizeTitle>12</FontSizeTitle>
+    <FontBoldTitle>true</FontBoldTitle>
+    <DragScroll>1.5</DragScroll>
+    <ContentColorList>
+      <string>LightYellow</string>
+      <string>Lavender</string>
+      <string>LavenderBlush</string>
+      <string>MistyRose</string>
+      <string>Honeydew</string>
+      <string>LightCyan</string>
+      <string>PapayaWhip</string>
+      <string>Pink</string>
+      <string>LightYellow</string>
+      <string>PapayaWhip</string>
+      <string>AliceBlue</string>
+      <string>AliceBlue</string>
+      <string>White</string>
+      <string>White</string>
+      <string>White</string>
+      <string>WhiteSmoke</string>
+      <string>White</string>
+    </ContentColorList>
+    <ContentCustColorList>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+    </ContentCustColorList>
+    <TimeColorList>
+      <string>MediumPurple</string>
+      <string>LightSeaGreen</string>
+      <string>LightSalmon</string>
+      <string>CornflowerBlue</string>
+    </TimeColorList>
+    <TimeCustColorList>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+    </TimeCustColorList>
+    <ReserveRectColorNormal>Lime</ReserveRectColorNormal>
+    <ReserveRectColorNo>Black</ReserveRectColorNo>
+    <ReserveRectColorNoTuner>Red</ReserveRectColorNoTuner>
+    <ReserveRectColorWarning>Yellow</ReserveRectColorWarning>
+    <ReserveRectFillOpacity>0</ReserveRectFillOpacity>
+    <ReserveRectFillWithShadow>true</ReserveRectFillWithShadow>
+    <TitleColor1>Black</TitleColor1>
+    <TitleColor2>Black</TitleColor2>
+    <TitleCustColor1>4294967295</TitleCustColor1>
+    <TitleCustColor2>4294967295</TitleCustColor2>
+    <ServiceColor>LightSlateGray</ServiceColor>
+    <ServiceCustColor>4294967295</ServiceCustColor>
+    <EpgToolTip>false</EpgToolTip>
+    <EpgBorderLeftSize>2</EpgBorderLeftSize>
+    <EpgBorderTopSize>0.5</EpgBorderTopSize>
+    <EpgTitleIndent>true</EpgTitleIndent>
+    <EpgReplacePattern></EpgReplacePattern>
+    <EpgReplacePatternTitle></EpgReplacePatternTitle>
+    <EpgToolTipNoViewOnly>true</EpgToolTipNoViewOnly>
+    <EpgToolTipViewWait>1500</EpgToolTipViewWait>
+    <EpgPopup>true</EpgPopup>
+    <EpgAdjustPopup>true</EpgAdjustPopup>
+    <EpgExtInfoTable>false</EpgExtInfoTable>
+    <EpgExtInfoPopup>true</EpgExtInfoPopup>
+    <EpgGradation>true</EpgGradation>
+    <EpgGradationHeader>true</EpgGradationHeader>
+    <EpgTipsBackColorR>211</EpgTipsBackColorR>
+    <EpgTipsBackColorG>211</EpgTipsBackColorG>
+    <EpgTipsBackColorB>211</EpgTipsBackColorB>
+    <EpgTipsForeColorR>0</EpgTipsForeColorR>
+    <EpgTipsForeColorG>0</EpgTipsForeColorG>
+    <EpgTipsForeColorB>0</EpgTipsForeColorB>
+    <EpgBackColorA>128</EpgBackColorA>
+    <EpgBackColorR>169</EpgBackColorR>
+    <EpgBackColorG>169</EpgBackColorG>
+    <EpgBackColorB>169</EpgBackColorB>
+    <EpgInfoSingleClick>false</EpgInfoSingleClick>
+    <EpgInfoOpenMode>0</EpgInfoOpenMode>
+  </EpgSetting1>
+  <EpgSetting2>
+    <MinHeight>2</MinHeight>
+    <MinimumHeight>0.6</MinimumHeight>
+    <ServiceWidth>150</ServiceWidth>
+    <MouseScrollAuto>false</MouseScrollAuto>
+    <ScrollSize>240</ScrollSize>
+    <MouseHorizontalScrollAuto>false</MouseHorizontalScrollAuto>
+    <HorizontalScrollSize>150</HorizontalScrollSize>
+    <FontName>メイリオ</FontName>
+    <FontSize>12</FontSize>
+    <FontNameTitle>メイリオ</FontNameTitle>
+    <FontSizeTitle>12</FontSizeTitle>
+    <FontBoldTitle>true</FontBoldTitle>
+    <DragScroll>1.5</DragScroll>
+    <ContentColorList>
+      <string>LightYellow</string>
+      <string>Lavender</string>
+      <string>LavenderBlush</string>
+      <string>MistyRose</string>
+      <string>Honeydew</string>
+      <string>LightCyan</string>
+      <string>PapayaWhip</string>
+      <string>Pink</string>
+      <string>LightYellow</string>
+      <string>PapayaWhip</string>
+      <string>AliceBlue</string>
+      <string>AliceBlue</string>
+      <string>White</string>
+      <string>White</string>
+      <string>White</string>
+      <string>WhiteSmoke</string>
+      <string>White</string>
+    </ContentColorList>
+    <ContentCustColorList>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+    </ContentCustColorList>
+    <TimeColorList>
+      <string>MediumPurple</string>
+      <string>LightSeaGreen</string>
+      <string>LightSalmon</string>
+      <string>CornflowerBlue</string>
+    </TimeColorList>
+    <TimeCustColorList>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+      <unsignedInt>4294967295</unsignedInt>
+    </TimeCustColorList>
+    <ReserveRectColorNormal>Lime</ReserveRectColorNormal>
+    <ReserveRectColorNo>Black</ReserveRectColorNo>
+    <ReserveRectColorNoTuner>Red</ReserveRectColorNoTuner>
+    <ReserveRectColorWarning>Yellow</ReserveRectColorWarning>
+    <ReserveRectFillOpacity>0</ReserveRectFillOpacity>
+    <ReserveRectFillWithShadow>true</ReserveRectFillWithShadow>
+    <TitleColor1>Black</TitleColor1>
+    <TitleColor2>Black</TitleColor2>
+    <TitleCustColor1>4294967295</TitleCustColor1>
+    <TitleCustColor2>4294967295</TitleCustColor2>
+    <ServiceColor>LightSlateGray</ServiceColor>
+    <ServiceCustColor>4294967295</ServiceCustColor>
+    <EpgToolTip>false</EpgToolTip>
+    <EpgBorderLeftSize>2</EpgBorderLeftSize>
+    <EpgBorderTopSize>0.5</EpgBorderTopSize>
+    <EpgTitleIndent>true</EpgTitleIndent>
+    <EpgReplacePattern></EpgReplacePattern>
+    <EpgReplacePatternTitle></EpgReplacePatternTitle>
+    <EpgToolTipNoViewOnly>true</EpgToolTipNoViewOnly>
+    <EpgToolTipViewWait>1500</EpgToolTipViewWait>
+    <EpgPopup>true</EpgPopup>
+    <EpgAdjustPopup>true</EpgAdjustPopup>
+    <EpgExtInfoTable>false</EpgExtInfoTable>
+    <EpgExtInfoPopup>true</EpgExtInfoPopup>
+    <EpgGradation>true</EpgGradation>
+    <EpgGradationHeader>true</EpgGradationHeader>
+    <EpgTipsBackColorR>211</EpgTipsBackColorR>
+    <EpgTipsBackColorG>211</EpgTipsBackColorG>
+    <EpgTipsBackColorB>211</EpgTipsBackColorB>
+    <EpgTipsForeColorR>0</EpgTipsForeColorR>
+    <EpgTipsForeColorG>0</EpgTipsForeColorG>
+    <EpgTipsForeColorB>0</EpgTipsForeColorB>
+    <EpgBackColorA>128</EpgBackColorA>
+    <EpgBackColorR>169</EpgBackColorR>
+    <EpgBackColorG>169</EpgBackColorG>
+    <EpgBackColorB>169</EpgBackColorB>
+    <EpgInfoSingleClick>false</EpgInfoSingleClick>
+    <EpgInfoOpenMode>0</EpgInfoOpenMode>
+  </EpgSetting2>
+  <NoToolTip>false</NoToolTip>
+  <NoBallonTips>false</NoBallonTips>
+  <BalloonTipRealtime>false</BalloonTipRealtime>
+  <ForceHideBalloonTipSec>0</ForceHideBalloonTipSec>
+  <PlayDClick>false</PlayDClick>
+  <ConfirmDelRecInfo>true</ConfirmDelRecInfo>
+  <ConfirmDelRecInfoAlways>false</ConfirmDelRecInfoAlways>
+  <SaveSearchKeyword>true</SaveSearchKeyword>
+  <ShowLogo>true</ShowLogo>
+  <ShowEpgCapServiceOnly>false</ShowEpgCapServiceOnly>
+  <SortServiceList>true</SortServiceList>
+  <ExitAfterProcessingArgs>false</ExitAfterProcessingArgs>
   <ResColumnHead>StartTime</ResColumnHead>
   <ResSortDirection>Ascending</ResSortDirection>
   <ResHideButton>false</ResHideButton>
-  <LastWindowState>Maximized</LastWindowState>
-  <MainWndLeft>687</MainWndLeft>
-  <MainWndTop>361</MainWndTop>
-  <MainWndWidth>943</MainWndWidth>
-  <MainWndHeight>600</MainWndHeight>
-  <SearchWndTabsHeight>405</SearchWndTabsHeight>
-  <CloseMin>true</CloseMin>
+  <LastWindowState>Normal</LastWindowState>
+  <MainWndLeft>411</MainWndLeft>
+  <MainWndTop>0</MainWndTop>
+  <MainWndWidth>640</MainWndWidth>
+  <MainWndHeight>480</MainWndHeight>
+  <SearchWndTabsHeight>0</SearchWndTabsHeight>
+  <CloseMin>false</CloseMin>
   <WakeMin>false</WakeMin>
-  <ViewButtonShowAsTab>true</ViewButtonShowAsTab>
+  <ViewButtonShowAsTab>false</ViewButtonShowAsTab>
   <ViewButtonList>
     <string>設定</string>
     <string>（空白）</string>
@@ -205,38 +373,7 @@
   <Cust2BtnName></Cust2BtnName>
   <Cust2BtnCmd></Cust2BtnCmd>
   <Cust2BtnCmdOpt></Cust2BtnCmdOpt>
-  <AndKeyList>
-    <string>トネガワ</string>
-    <string>[新]</string>
-    <string>やがて君になる</string>
-    <string>シュタインズ</string>
-    <string>ルパン三世 ＰＡＲＴ５</string>
-    <string>ポプテピピック</string>
-    <string>ルパン三世</string>
-    <string>ルパン三世 ＰＡＲ</string>
-    <string>ルパン三世 ＰＡＲＴ</string>
-    <string>銀河英雄伝説</string>
-    <string>東京喰種</string>
-    <string>Ｂ：　Ｔｈｅ　Ｂｅｇｉｎｎｉｎｇ</string>
-    <string>B: The Beginning</string>
-    <string>博多豚骨ラーメンズ</string>
-    <string>[新]博多豚骨ラーメンズ　＃１「プレイボール」</string>
-    <string>fate</string>
-    <string>いぬやしき</string>
-    <string>キノの旅</string>
-    <string>#1</string>
-    <string>１</string>
-    <string>キノの旅　ｔｈｅ　Ａｎｉｍａｔｅｄ　Ｓｅｒｉｅｓ</string>
-    <string>fatea</string>
-    <string>Ｆａｔｅ</string>
-    <string>Ｆａｔｅ／Ａｐｏｃｒｙｐｈａ</string>
-    <string>いぬやしき＜ノイタミナ＞　＃０６[字]</string>
-    <string>い</string>
-    <string>いぬ</string>
-    <string>あ</string>
-    <string>新</string>
-    <string>UQ</string>
-  </AndKeyList>
+  <AndKeyList />
   <NotKeyList />
   <SearchKeyAndKey></SearchKeyAndKey>
   <SearchKeyNotKey></SearchKeyNotKey>
@@ -251,16 +388,19 @@
   <SearchKeyFreeCA>0</SearchKeyFreeCA>
   <SearchKeyChkRecEnd>0</SearchKeyChkRecEnd>
   <SearchKeyChkRecDay>6</SearchKeyChkRecDay>
-  <RecInfoColumnHead>StartTime</RecInfoColumnHead>
-  <RecInfoSortDirection>Descending</RecInfoSortDirection>
+  <RecInfoColumnHead></RecInfoColumnHead>
+  <RecInfoSortDirection>Ascending</RecInfoSortDirection>
   <RecInfoHideButton>false</RecInfoHideButton>
-  <TvTestExe>C:\TV\TVTest\TVTest.exe</TvTestExe>
+  <AutoAddEpgHideButton>false</AutoAddEpgHideButton>
+  <AutoAddManualHideButton>false</AutoAddManualHideButton>
+  <TvTestExe></TvTestExe>
   <TvTestCmd></TvTestCmd>
-  <NwTvMode>true</NwTvMode>
-  <NwTvModeUDP>true</NwTvModeUDP>
-  <NwTvModeTCP>true</NwTvModeTCP>
+  <NwTvMode>false</NwTvMode>
+  <NwTvModeUDP>false</NwTvModeUDP>
+  <NwTvModeTCP>false</NwTvModeTCP>
+  <NwTvModePipe>false</NwTvModePipe>
   <FilePlay>true</FilePlay>
-  <FilePlayExe>C:\TV\TVTest\TVTest.exe</FilePlayExe>
+  <FilePlayExe></FilePlayExe>
   <FilePlayCmd>"$FilePath$"</FilePlayCmd>
   <FilePlayOnAirWithExe>true</FilePlayOnAirWithExe>
   <IEpgStationList />
@@ -274,14 +414,16 @@
   <PrebuildEpg>false</PrebuildEpg>
   <TvTestOpenWait>2000</TvTestOpenWait>
   <TvTestChgBonWait>2000</TvTestChgBonWait>
+  <ResColorPosition>2</ResColorPosition>
+  <ResAlternationCount>2</ResAlternationCount>
   <ResDefColorA>0</ResDefColorA>
   <ResDefColorR>255</ResDefColorR>
   <ResDefColorG>255</ResDefColorG>
   <ResDefColorB>255</ResDefColorB>
   <ResErrColorA>128</ResErrColorA>
   <ResErrColorR>255</ResErrColorR>
-  <ResErrColorG>0</ResErrColorG>
-  <ResErrColorB>0</ResErrColorB>
+  <ResErrColorG>32</ResErrColorG>
+  <ResErrColorB>32</ResErrColorB>
   <ResWarColorA>128</ResWarColorA>
   <ResWarColorR>255</ResWarColorR>
   <ResWarColorG>255</ResWarColorG>
@@ -290,29 +432,20 @@
   <ResNoColorR>169</ResNoColorR>
   <ResNoColorG>169</ResNoColorG>
   <ResNoColorB>169</ResNoColorB>
-  <RecEndDefColorA>0</RecEndDefColorA>
-  <RecEndDefColorR>255</RecEndDefColorR>
-  <RecEndDefColorG>255</RecEndDefColorG>
-  <RecEndDefColorB>255</RecEndDefColorB>
+  <RecEndColorPosition>2</RecEndColorPosition>
+  <RecEndAlternationCount>2</RecEndAlternationCount>
+  <RecEndDefColorA>12</RecEndDefColorA>
+  <RecEndDefColorR>128</RecEndDefColorR>
+  <RecEndDefColorG>128</RecEndDefColorG>
+  <RecEndDefColorB>128</RecEndDefColorB>
   <RecEndErrColorA>128</RecEndErrColorA>
   <RecEndErrColorR>255</RecEndErrColorR>
-  <RecEndErrColorG>0</RecEndErrColorG>
-  <RecEndErrColorB>0</RecEndErrColorB>
+  <RecEndErrColorG>32</RecEndErrColorG>
+  <RecEndErrColorB>32</RecEndErrColorB>
   <RecEndWarColorA>128</RecEndWarColorA>
   <RecEndWarColorR>255</RecEndWarColorR>
   <RecEndWarColorG>255</RecEndWarColorG>
   <RecEndWarColorB>0</RecEndWarColorB>
-  <EpgTipsBackColorR>211</EpgTipsBackColorR>
-  <EpgTipsBackColorG>211</EpgTipsBackColorG>
-  <EpgTipsBackColorB>211</EpgTipsBackColorB>
-  <EpgTipsForeColorR>0</EpgTipsForeColorR>
-  <EpgTipsForeColorG>0</EpgTipsForeColorG>
-  <EpgTipsForeColorB>0</EpgTipsForeColorB>
-  <EpgBackColorR>169</EpgBackColorR>
-  <EpgBackColorG>169</EpgBackColorG>
-  <EpgBackColorB>169</EpgBackColorB>
-  <EpgInfoSingleClick>false</EpgInfoSingleClick>
-  <EpgInfoOpenMode>0</EpgInfoOpenMode>
   <ExecBat>0</ExecBat>
   <SuspendChk>0</SuspendChk>
   <ReserveListColumn>
@@ -330,7 +463,11 @@
     </ListColumnInfo>
     <ListColumnInfo>
       <Tag>EventName</Tag>
-      <Width>337</Width>
+      <Width>NaN</Width>
+    </ListColumnInfo>
+    <ListColumnInfo>
+      <Tag>RecEnabled</Tag>
+      <Width>NaN</Width>
     </ListColumnInfo>
     <ListColumnInfo>
       <Tag>RecMode</Tag>
@@ -443,13 +580,13 @@
       <Width>NaN</Width>
     </ListColumnInfo>
   </AutoAddManualColumn>
-  <SearchWndWidth>943</SearchWndWidth>
-  <SearchWndHeight>797</SearchWndHeight>
+  <SearchWndWidth>0</SearchWndWidth>
+  <SearchWndHeight>0</SearchWndHeight>
   <NotifyLogMax>100</NotifyLogMax>
-  <ShowTray>true</ShowTray>
+  <ShowTray>false</ShowTray>
   <MinHide>true</MinHide>
-  <MouseScrollAuto>true</MouseScrollAuto>
   <NoStyle>1</NoStyle>
+  <ApplyContextMenuStyle>false</ApplyContextMenuStyle>
   <NoSendClose>0</NoSendClose>
   <StartTab>ReserveView</StartTab>
 </Settings>
